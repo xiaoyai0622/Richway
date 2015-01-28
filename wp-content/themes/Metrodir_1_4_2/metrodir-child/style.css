@@ -1,0 +1,16 @@
+/*
+Theme Name: MetroDir - Child Theme
+Theme URI: http://uouapps.com/wp/metrodir
+Author: UOU apps
+Author URI: http://uouapps.com
+Description: MetroDir (Desktop, tablet, mobile phone and other device)
+Version: 1.0
+License: GNU General Public License
+Template: metrodir
+*/
+
+@import url('../metrodir/style.css');
+
+/**
+ * Place Custom CSS Below this.
+ */

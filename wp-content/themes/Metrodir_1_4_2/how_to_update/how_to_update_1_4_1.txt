@@ -1,0 +1,38 @@
+How to update Metrodir v.1.4 -> v.1.4.1 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP --------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/admin/theme-settings.php
+	/css/less.css
+	/css/responsive.css
+	/include/html/company-tabs/company.php
+	/include/html/pattern-company-thumb.php
+	/include/php/companymarkers.php
+	/languages/*
+	/lib/panel/company.php
+	/skl/plugin/admin-options/opt/accounts.php
+	/scripts/scripts.js
+	functions.php
+	page-home.php
+	page-search.php
+	page-search-default.php
+	style.css
+
+- Go to "Metrodir CP" at Administrator Dashboard and Click "Save All Changes";
+- Go to "Metrodir CP" -> "UOU addons" and Click "Save settings" for all TABS;
+- Don't Forget go to "Appearance" -> "Menus" -> "Manage Locations" Assign "Primary Menu" and Click "Save changes";
+- Pay Attention go to Administrator Dashboard -> "Company" and Click on the Orange Warning to Fix Company Meta.
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+
+New: Option "Show Sidebar on Companies Search Pages";
+New: One Style (Thumb) for Search Results and Category Pages (Option "Search Results Style");
+New: One Style for Search Pages with Fixed Map (Option "Search with Fixed Map");
+New: Two Options for Language Widget: "Flag and Code" , "Flag and Name";
+Fix: Bug with Displaying Company Fields on Company Page;
+Fix: Some Bug with Map Search;
+Fix: Style for Category Page;
+Fix: Some Other Bugs.

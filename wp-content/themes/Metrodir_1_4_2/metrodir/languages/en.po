@@ -1,0 +1,3903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MetroDir\n"
+"POT-Creation-Date: 2014-08-08 14:51+0300\n"
+"PO-Revision-Date: 2014-08-08 14:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10 include/html/frame-breadcrumbs.php:20
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"Sorry, the page you are looking for might have been removed, had its name "
+"changed, or is temporarily unavailable."
+msgstr ""
+
+#: admin/admin-select-post-type-modal.php:9
+msgid "You do not have permission to edit posts."
+msgstr ""
+
+#: admin/theme-settings.php:56
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-settings.php:59
+msgid "General Options"
+msgstr ""
+
+#: admin/theme-settings.php:61
+msgid "Demo Version"
+msgstr ""
+
+#: admin/theme-settings.php:62 admin/theme-settings.php:96
+#: admin/theme-settings.php:102 admin/theme-settings.php:160
+#: admin/theme-settings.php:166 admin/theme-settings.php:297
+#: admin/theme-settings.php:362 admin/theme-settings.php:377
+#: admin/theme-settings.php:383 admin/theme-settings.php:391
+#: admin/theme-settings.php:406 admin/theme-settings.php:421
+#: admin/theme-settings.php:435 admin/theme-settings.php:477
+#: admin/theme-settings.php:492 admin/theme-settings.php:500
+#: admin/theme-settings.php:515 admin/theme-settings.php:543
+#: admin/theme-settings.php:549 admin/theme-settings.php:568
+#: admin/theme-settings.php:574 admin/theme-settings.php:582
+#: admin/theme-settings.php:610 admin/theme-settings.php:616
+#: admin/theme-settings.php:624 admin/theme-settings.php:648
+#: admin/theme-settings.php:654 admin/theme-settings.php:660
+#: admin/theme-settings.php:666 admin/theme-settings.php:729
+#: admin/theme-settings.php:795 admin/theme-settings.php:801
+#: admin/theme-settings.php:807 admin/theme-settings.php:813
+#: admin/theme-settings.php:819
+msgid "Enable."
+msgstr ""
+
+#: admin/theme-settings.php:67
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/theme-settings.php:68
+msgid "Upload logo for your website (190x50 recommend)."
+msgstr ""
+
+#: admin/theme-settings.php:73
+msgid "Favicon Site"
+msgstr ""
+
+#: admin/theme-settings.php:74
+msgid "Upload a 16px x 16px image that will represent your website's favicon."
+msgstr ""
+
+#: admin/theme-settings.php:79
+msgid "Header Version"
+msgstr ""
+
+#: admin/theme-settings.php:87
+msgid "Full-Width or Boxed Version"
+msgstr ""
+
+#: admin/theme-settings.php:95
+msgid "Scroll Top Button"
+msgstr ""
+
+#: admin/theme-settings.php:101
+msgid "Use Popup for User CP pages?"
+msgstr ""
+
+#: admin/theme-settings.php:113
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/theme-settings.php:119
+msgid "Custom JS"
+msgstr ""
+
+#: admin/theme-settings.php:125
+msgid "Theme Background Options"
+msgstr ""
+
+#: admin/theme-settings.php:127
+msgid "Site Background for Boxed Version Upload"
+msgstr ""
+
+#: admin/theme-settings.php:128
+msgid "Upload site background (1920x1080 recommend)."
+msgstr ""
+
+#: admin/theme-settings.php:133
+msgid "Background Color"
+msgstr ""
+
+#: admin/theme-settings.php:138
+msgid "Background Position"
+msgstr ""
+
+#: admin/theme-settings.php:139
+msgid "Vertical"
+msgstr ""
+
+#: admin/theme-settings.php:146
+msgid "Horizontal"
+msgstr ""
+
+#: admin/theme-settings.php:152
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/theme-settings.php:159
+msgid "Fixed Background"
+msgstr ""
+
+#: admin/theme-settings.php:165
+msgid "Enable Background For No-Boxed Version"
+msgstr ""
+
+#: admin/theme-settings.php:171
+msgid "Theme Colors Accents"
+msgstr ""
+
+#: admin/theme-settings.php:173
+msgid "First Theme Color"
+msgstr ""
+
+#: admin/theme-settings.php:178
+msgid "Second Theme Color"
+msgstr ""
+
+#: admin/theme-settings.php:183
+msgid "Font Color Major / Some Hover Color"
+msgstr ""
+
+#: admin/theme-settings.php:188
+msgid "Font Color Minor"
+msgstr ""
+
+#: admin/theme-settings.php:193
+msgid "Some Back Color"
+msgstr ""
+
+#: admin/theme-settings.php:198
+msgid "Border Color"
+msgstr ""
+
+#: admin/theme-settings.php:203
+msgid "Border Color Light"
+msgstr ""
+
+#: admin/theme-settings.php:208
+msgid "View Options"
+msgstr ""
+
+#: admin/theme-settings.php:210 admin/theme-settings.php:324
+msgid "Home View"
+msgstr ""
+
+#: admin/theme-settings.php:211
+msgid "Structure home view."
+msgstr ""
+
+#: admin/theme-settings.php:223
+msgid "Slider"
+msgstr ""
+
+#: admin/theme-settings.php:224
+msgid "Choose Revolution Slider ID"
+msgstr ""
+
+#: admin/theme-settings.php:231
+msgid "Company Page Layout"
+msgstr ""
+
+#: admin/theme-settings.php:240
+msgid "Slug for Company"
+msgstr ""
+
+#: admin/theme-settings.php:254
+msgid "Items to Show on \"Company List\" Page"
+msgstr ""
+
+#: admin/theme-settings.php:261
+msgid "Items to Show on \"Search\" Page"
+msgstr ""
+
+#: admin/theme-settings.php:268
+msgid "Contact Options"
+msgstr ""
+
+#: admin/theme-settings.php:270
+msgid "E-Mail Address For Contact Form"
+msgstr ""
+
+#: admin/theme-settings.php:276
+msgid "Subject for Contact Form"
+msgstr ""
+
+#: admin/theme-settings.php:282
+msgid "Charset"
+msgstr ""
+
+#: admin/theme-settings.php:288
+msgid "Footer Options"
+msgstr ""
+
+#: admin/theme-settings.php:290
+msgid "Footer About Us Text"
+msgstr ""
+
+#: admin/theme-settings.php:296
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: admin/theme-settings.php:302
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/theme-settings.php:308
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-settings.php:309
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: admin/theme-settings.php:321
+msgid "Homepage Settings"
+msgstr ""
+
+#: admin/theme-settings.php:333
+msgid "Welcom Block"
+msgstr ""
+
+#: admin/theme-settings.php:335
+msgid "Welcome Block Image"
+msgstr ""
+
+#: admin/theme-settings.php:336
+msgid "Upload Welcome Image (90x90)."
+msgstr ""
+
+#: admin/theme-settings.php:341
+msgid "Welcome Block Image Link"
+msgstr ""
+
+#: admin/theme-settings.php:342
+msgid "URL by clicking on the image"
+msgstr ""
+
+#: admin/theme-settings.php:347
+msgid "Welcome Block Title"
+msgstr ""
+
+#: admin/theme-settings.php:348
+msgid "h1"
+msgstr ""
+
+#: admin/theme-settings.php:353
+msgid "Welcome Block Text"
+msgstr ""
+
+#: admin/theme-settings.php:354
+msgid "Welcome Text"
+msgstr ""
+
+#: admin/theme-settings.php:359
+msgid "Categories Block"
+msgstr ""
+
+#: admin/theme-settings.php:361
+msgid "Categories Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:367
+msgid "Categories Block Style"
+msgstr ""
+
+#: admin/theme-settings.php:376
+msgid "Use Image in Categories Block"
+msgstr ""
+
+#: admin/theme-settings.php:382
+msgid "Show/Hide Subcategories"
+msgstr ""
+
+#: admin/theme-settings.php:388
+msgid "Featured Companies Block"
+msgstr ""
+
+#: admin/theme-settings.php:390
+msgid "Featured Companies Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:396 admin/theme-settings.php:505
+msgid "Featured Companies to show"
+msgstr ""
+
+#: admin/theme-settings.php:403
+msgid "Latest Companies Block"
+msgstr ""
+
+#: admin/theme-settings.php:405
+msgid "Latest Companies Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:411
+msgid "Latest Companies to show"
+msgstr ""
+
+#: admin/theme-settings.php:418
+msgid "Subscribe Block"
+msgstr ""
+
+#: admin/theme-settings.php:420
+msgid "Pricing Plans Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:426
+msgid "Registration Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:427
+msgid ""
+"Enable. (Disable still hides the \"Registration\" button in \"Header\".)"
+msgstr ""
+
+#: admin/theme-settings.php:432 admin/theme-settings.php:621
+msgid "Custom Block"
+msgstr ""
+
+#: admin/theme-settings.php:434
+msgid "Custom Block on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:440 admin/theme-settings.php:629
+msgid "Custom Block Title"
+msgstr ""
+
+#: admin/theme-settings.php:441 admin/theme-settings.php:630
+msgid "h2"
+msgstr ""
+
+#: admin/theme-settings.php:446 admin/theme-settings.php:635
+msgid "Custom Block Body"
+msgstr ""
+
+#: admin/theme-settings.php:447 admin/theme-settings.php:467
+#: admin/theme-settings.php:636
+msgid "Paste HTML custom block"
+msgstr ""
+
+#: admin/theme-settings.php:452
+msgid "Custom Tab"
+msgstr ""
+
+#: admin/theme-settings.php:454
+msgid "Custom Tab on Home Page"
+msgstr ""
+
+#: admin/theme-settings.php:455
+msgid "Enable. (If select Tabs home page view)"
+msgstr ""
+
+#: admin/theme-settings.php:460
+msgid "Custom Tab Title"
+msgstr ""
+
+#: admin/theme-settings.php:466
+msgid "Custom Tab Body"
+msgstr ""
+
+#: admin/theme-settings.php:473
+msgid "Sidebar Settings"
+msgstr ""
+
+#: admin/theme-settings.php:476
+msgid "Sidebar Widgets Area (For Single and Search Pages)"
+msgstr ""
+
+#: admin/theme-settings.php:482
+msgid "Where Show"
+msgstr ""
+
+#: admin/theme-settings.php:483
+msgid ""
+"Where Show SideBar. (This option does not affect the position of the "
+"\"Company Page\")"
+msgstr ""
+
+#: admin/theme-settings.php:491
+msgid "Blog Search"
+msgstr ""
+
+#: admin/theme-settings.php:497
+msgid "Featured Block"
+msgstr ""
+
+#: admin/theme-settings.php:499
+msgid "Featured Block in SideBar"
+msgstr ""
+
+#: admin/theme-settings.php:512
+msgid "Recently Added Block"
+msgstr ""
+
+#: admin/theme-settings.php:514
+msgid "Recently Added Block in SideBar"
+msgstr ""
+
+#: admin/theme-settings.php:520
+msgid "Recently Added Companies to show"
+msgstr ""
+
+#: admin/theme-settings.php:527
+msgid "Sidebar Two Small Banners"
+msgstr ""
+
+#: admin/theme-settings.php:529
+msgid "Banner 1 Upload"
+msgstr ""
+
+#: admin/theme-settings.php:530
+msgid "Upload Sidebar Banner 1 (140*140 Recommended)."
+msgstr ""
+
+#: admin/theme-settings.php:537
+msgid "Banner 1 URL"
+msgstr ""
+
+#: admin/theme-settings.php:542
+msgid "Open Banner 1 URL in New Window"
+msgstr ""
+
+#: admin/theme-settings.php:548
+msgid "Banner 1 Nofollow"
+msgstr ""
+
+#: admin/theme-settings.php:554
+msgid "Banner 2 Upload"
+msgstr ""
+
+#: admin/theme-settings.php:555
+msgid "Upload Sidebar Banner 2 (140*140 Recommended)."
+msgstr ""
+
+#: admin/theme-settings.php:562
+msgid "Banner 2 URL"
+msgstr ""
+
+#: admin/theme-settings.php:567
+msgid "Open Banner 2 URL in New Window"
+msgstr ""
+
+#: admin/theme-settings.php:573
+msgid "Banner 2 Nofollow"
+msgstr ""
+
+#: admin/theme-settings.php:579
+msgid "Latest Posts Block"
+msgstr ""
+
+#: admin/theme-settings.php:581
+msgid "Latest Posts Block in SideBar"
+msgstr ""
+
+#: admin/theme-settings.php:587
+msgid "Latest Posts to show"
+msgstr ""
+
+#: admin/theme-settings.php:594
+msgid "Sidebar Banner (Big)"
+msgstr ""
+
+#: admin/theme-settings.php:596
+msgid "Sidebar Banner Upload"
+msgstr ""
+
+#: admin/theme-settings.php:597
+msgid "Upload Sidebar Banner Big (600*500 Recommended)."
+msgstr ""
+
+#: admin/theme-settings.php:604
+msgid "Banner URL"
+msgstr ""
+
+#: admin/theme-settings.php:609
+msgid "Open URL in New Window"
+msgstr ""
+
+#: admin/theme-settings.php:615
+msgid "Nofollow"
+msgstr ""
+
+#: admin/theme-settings.php:623
+msgid "Custom Block in Sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:642
+msgid "Map Settings"
+msgstr ""
+
+#: admin/theme-settings.php:645
+msgid "Map engine (uouapps Map v.2.5)"
+msgstr ""
+
+#: admin/theme-settings.php:647
+msgid "Hidden Map on Load"
+msgstr ""
+
+#: admin/theme-settings.php:653
+msgid "Draggable Map"
+msgstr ""
+
+#: admin/theme-settings.php:659
+msgid "Map Lock/Unlock Button"
+msgstr ""
+
+#: admin/theme-settings.php:665
+msgid "Scrollwheel Zoom Map"
+msgstr ""
+
+#: admin/theme-settings.php:671
+msgid "Map Load Zoom"
+msgstr ""
+
+#: admin/theme-settings.php:678
+msgid "Map Type"
+msgstr ""
+
+#: admin/theme-settings.php:689
+msgid "Markers Type"
+msgstr ""
+
+#: admin/theme-settings.php:698
+msgid "Markers Information"
+msgstr ""
+
+#: admin/theme-settings.php:708
+msgid "Map Centering"
+msgstr ""
+
+#: admin/theme-settings.php:709
+msgid "Default map targeting."
+msgstr ""
+
+#: admin/theme-settings.php:721
+msgid "Default Category"
+msgstr ""
+
+#: admin/theme-settings.php:722
+msgid "Only for Home Page."
+msgstr ""
+
+#: admin/theme-settings.php:728
+msgid "Show Subcategories in Under Map Filter"
+msgstr ""
+
+#: admin/theme-settings.php:734 admin/theme-settings.php:736
+msgid "Address Centering"
+msgstr ""
+
+#: admin/theme-settings.php:748 admin/theme-settings.php:902
+#: lib/panel/company.php:706 skl/plugin/import-company/import.php:108
+msgid "Latitude"
+msgstr ""
+
+#: admin/theme-settings.php:755 admin/theme-settings.php:909
+msgid "Longitude"
+msgstr ""
+
+#: admin/theme-settings.php:760
+msgid "Map Clusters (v.0.4)"
+msgstr ""
+
+#: admin/theme-settings.php:762
+msgid "Map Clusters"
+msgstr ""
+
+#: admin/theme-settings.php:763
+msgid "Enable. (Only for Image Markers Type)"
+msgstr ""
+
+#: admin/theme-settings.php:768
+msgid "Map Clusters Grid Size"
+msgstr ""
+
+#: admin/theme-settings.php:769 admin/theme-settings.php:776
+msgid "Recommended Values"
+msgstr ""
+
+#: admin/theme-settings.php:775
+msgid "Map Clusters Min Size"
+msgstr ""
+
+#: admin/theme-settings.php:782
+msgid "Map Clusters Icons URL"
+msgstr ""
+
+#: admin/theme-settings.php:783
+msgid ""
+"You also can change images in wp-content/themes/metrodir/images/clusters/*"
+msgstr ""
+
+#: admin/theme-settings.php:789
+msgid "Search Settings"
+msgstr ""
+
+#: admin/theme-settings.php:792
+msgid "Search engine (uouapps Search v.1.4)"
+msgstr ""
+
+#: admin/theme-settings.php:794 include/html/frame-sidebar-blog.php:20
+msgid "Search"
+msgstr ""
+
+#: admin/theme-settings.php:800
+msgid "Show Search on RevSlider"
+msgstr ""
+
+#: admin/theme-settings.php:806
+msgid "Advanced Search"
+msgstr ""
+
+#: admin/theme-settings.php:812
+msgid "Global Search (in Header)"
+msgstr ""
+
+#: admin/theme-settings.php:818
+msgid "Radius Search"
+msgstr ""
+
+#: admin/theme-settings.php:824
+msgid "Map Unit"
+msgstr ""
+
+#: admin/theme-settings.php:833
+msgid "Slider Radius Minimal Value (km/mi)"
+msgstr ""
+
+#: admin/theme-settings.php:838
+msgid "Slider Radius Maximal Value (km/mi)"
+msgstr ""
+
+#: admin/theme-settings.php:843
+msgid "Slider Radius Default Value (km/mi)"
+msgstr ""
+
+#: admin/theme-settings.php:849
+msgid "Days Published Maximal Value"
+msgstr ""
+
+#: admin/theme-settings.php:854
+msgid "Additional Fields"
+msgstr ""
+
+#: admin/theme-settings.php:863
+msgid "Type Additional Fields"
+msgstr ""
+
+#: admin/theme-settings.php:871 include/html/company-tabs/company.php:89
+msgid "Contact Details"
+msgstr ""
+
+#: admin/theme-settings.php:873 include/html/company-tabs/contact.php:49
+#: page-contactus.php:76
+msgid "Address Details"
+msgstr ""
+
+#: admin/theme-settings.php:875 comments.php:68 lib/panel/panel.php:84
+#: skl/framework/widgets/login-widget.php:105
+msgid "Email"
+msgstr ""
+
+#: admin/theme-settings.php:880 include/html/company-tabs/company.php:181
+#: include/html/company-tabs/contact.php:74 lib/panel/panel.php:88
+#: page-contactus.php:92 skl/plugin/admin-options/opt/fields.php:75
+#: skl/plugin/import-company/import.php:136
+msgid "Phone"
+msgstr ""
+
+#: admin/theme-settings.php:885 include/html/company-tabs/company.php:203
+#: include/html/company-tabs/contact.php:77 lib/panel/panel.php:92
+#: page-contactus.php:95 skl/plugin/admin-options/opt/fields.php:90
+#: skl/plugin/import-company/import.php:140
+msgid "Fax"
+msgstr ""
+
+#: admin/theme-settings.php:890 include/html/frame-search.php:236
+#: lib/panel/company.php:85 lib/panel/company.php:688
+#: skl/plugin/import-company/import.php:104
+msgid "Address"
+msgstr ""
+
+#: admin/theme-settings.php:914 comments.php:73
+#: include/html/company-tabs/company.php:225
+#: include/html/company-tabs/contact.php:92 lib/panel/panel.php:100
+#: page-contactus.php:62 page-contactus.php:110
+#: skl/plugin/admin-options/opt/fields.php:120
+#: skl/plugin/import-company/import.php:156
+#: skl/plugin/import-company/import.php:160
+msgid "Website"
+msgstr ""
+
+#: admin/theme-settings.php:919 include/html/company-tabs/company.php:344
+#: include/html/company-tabs/contact.php:112 page-contactus.php:122
+msgid "Opening Hours"
+msgstr ""
+
+#: admin/theme-settings.php:921
+msgid "1 Opening Interval"
+msgstr ""
+
+#: admin/theme-settings.php:922
+msgid "1 Day interval"
+msgstr ""
+
+#: admin/theme-settings.php:928
+msgid "1 Time interval"
+msgstr ""
+
+#: admin/theme-settings.php:933
+msgid "2 Opening Interval"
+msgstr ""
+
+#: admin/theme-settings.php:934
+msgid "2 Day interval"
+msgstr ""
+
+#: admin/theme-settings.php:941
+msgid "2 Time interval"
+msgstr ""
+
+#: admin/theme-settings.php:946
+msgid "3 Opening Interval"
+msgstr ""
+
+#: admin/theme-settings.php:947
+msgid "3 Day interval"
+msgstr ""
+
+#: admin/theme-settings.php:954
+msgid "3 Time interval"
+msgstr ""
+
+#: admin/theme-settings.php:959
+msgid "4 Opening Interval"
+msgstr ""
+
+#: admin/theme-settings.php:960
+msgid "4 Day interval"
+msgstr ""
+
+#: admin/theme-settings.php:966
+msgid "4 Time interval"
+msgstr ""
+
+#: admin/theme-settings.php:972
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/theme-settings.php:974
+msgid "PayPal settings"
+msgstr ""
+
+#: admin/theme-settings.php:976
+msgid "Activate PayPal System"
+msgstr ""
+
+#: admin/theme-settings.php:982
+msgid "PayPal API Environment"
+msgstr ""
+
+#: admin/theme-settings.php:983
+msgid ""
+"Use sandbox (virtual) enviroment to testing paypal functionality (developer."
+"paypal.com). <br/> Use live (real) enviroment."
+msgstr ""
+
+#: admin/theme-settings.php:991
+msgid "PayPal Payment Type"
+msgstr ""
+
+#: admin/theme-settings.php:992
+msgid ""
+"Use Single to single payments. <br/> Use Recurring to subscriptions payments"
+msgstr ""
+
+#: admin/theme-settings.php:1000
+msgid "PayPal API Username"
+msgstr ""
+
+#: admin/theme-settings.php:1005
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/theme-settings.php:1010
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/theme-settings.php:1015
+msgid "PayPal API Currency Code"
+msgstr ""
+
+#: admin/theme-settings.php:1020
+msgid "PayPal Payment Name"
+msgstr ""
+
+#: admin/theme-settings.php:1026
+msgid "Partners"
+msgstr ""
+
+#: admin/theme-settings.php:1029
+msgid "1 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1031 admin/theme-settings.php:1049
+#: admin/theme-settings.php:1067 admin/theme-settings.php:1085
+#: admin/theme-settings.php:1103 admin/theme-settings.php:1121
+#: admin/theme-settings.php:1139 admin/theme-settings.php:1157
+#: admin/theme-settings.php:1175 admin/theme-settings.php:1193
+msgid "Display on Site"
+msgstr ""
+
+#: admin/theme-settings.php:1036 admin/theme-settings.php:1054
+#: admin/theme-settings.php:1072 admin/theme-settings.php:1090
+#: admin/theme-settings.php:1108 admin/theme-settings.php:1126
+#: admin/theme-settings.php:1144 admin/theme-settings.php:1162
+#: admin/theme-settings.php:1180 admin/theme-settings.php:1198
+msgid "Partners Logo"
+msgstr ""
+
+#: admin/theme-settings.php:1037 admin/theme-settings.php:1055
+#: admin/theme-settings.php:1073 admin/theme-settings.php:1091
+#: admin/theme-settings.php:1109 admin/theme-settings.php:1127
+#: admin/theme-settings.php:1145 admin/theme-settings.php:1163
+#: admin/theme-settings.php:1181 admin/theme-settings.php:1199
+msgid "Recomended size 180*120."
+msgstr ""
+
+#: admin/theme-settings.php:1042 admin/theme-settings.php:1060
+#: admin/theme-settings.php:1078 admin/theme-settings.php:1096
+#: admin/theme-settings.php:1114 admin/theme-settings.php:1132
+#: admin/theme-settings.php:1150 admin/theme-settings.php:1168
+#: admin/theme-settings.php:1186 admin/theme-settings.php:1204
+msgid "Partners Url"
+msgstr ""
+
+#: admin/theme-settings.php:1047
+msgid "2 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1065
+msgid "3 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1083
+msgid "4 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1101
+msgid "5 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1119
+msgid "6 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1137
+msgid "7 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1155
+msgid "8 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1173
+msgid "9 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1191
+msgid "10 - Partner"
+msgstr ""
+
+#: admin/theme-settings.php:1210
+msgid "Social Networks"
+msgstr ""
+
+#: admin/theme-settings.php:1213
+msgid "Social Buttons"
+msgstr ""
+
+#: admin/theme-settings.php:1215 lib/panel/panel.php:38
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:1221 lib/panel/panel.php:42
+msgid "Google+"
+msgstr ""
+
+#: admin/theme-settings.php:1227 lib/panel/panel.php:47
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:1233 lib/panel/panel.php:51
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/theme-settings.php:1239 lib/panel/panel.php:55
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-settings.php:1245 lib/panel/panel.php:59
+msgid "Dribbble"
+msgstr ""
+
+#: admin/theme-settings.php:1251
+msgid "Flickr Block"
+msgstr ""
+
+#: admin/theme-settings.php:1253
+msgid "Flickr Block ID"
+msgstr ""
+
+#: admin/theme-settings.php:1254 admin/theme-settings.php:1262
+#: admin/theme-settings.php:1274
+msgid "It's variable used on footer block widget"
+msgstr ""
+
+#: admin/theme-settings.php:1259
+msgid "Twitter Block"
+msgstr ""
+
+#: admin/theme-settings.php:1261
+msgid "Twitter Block ID"
+msgstr ""
+
+#: admin/theme-settings.php:1267
+msgid "Twitter Block Text"
+msgstr ""
+
+#: admin/theme-settings.php:1268
+msgid "It's variable used on footer block widget twitter custom text"
+msgstr ""
+
+#: admin/theme-settings.php:1273
+msgid "Twitter Block Link"
+msgstr ""
+
+#: admin/theme-settings.php:1280
+msgid "Multilingual Settings"
+msgstr ""
+
+#: admin/theme-settings.php:1283
+msgid "This Theme Ready for Translate by WPML"
+msgstr ""
+
+#: admin/theme-settings.php:1289
+msgid "Language Switcher Style"
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:28 comments.php:39
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:40
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:61 include/html/company-tabs/company.php:51
+#: include/html/company-tabs/company.php:95
+#: include/html/company-tabs/company.php:398
+#: include/html/company-tabs/contact.php:31 lib/panel/claim.php:44
+#: lib/panel/company.php:459 lib/panel/stars.php:53 lib/panel/stars.php:148
+#: lib/panel/stars.php:253 lib/panel/team.php:42 lib/panel/team.php:108
+#: lib/panel/team.php:174 page-contactus.php:59
+msgid "Name"
+msgstr ""
+
+#: comments.php:78
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:80
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:84
+msgid "Comment..."
+msgstr ""
+
+#: footer.php:51 footer.php:95
+msgid "About Us"
+msgstr ""
+
+#: footer.php:58
+msgid "Recent Tweets"
+msgstr ""
+
+#: footer.php:66
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:86
+msgid "Flickr Feed"
+msgstr ""
+
+#: functions.php:131
+#, php-format
+msgid ""
+"You need to set your <a href=\"%1$s\">permalink structure</a> to at least "
+"contain <b>/&#37;postname&#37;/</b> before WP MetroDir will work properly."
+msgstr ""
+
+#: functions.php:143 include/html/pattern-blog.php:19 single.php:38
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: functions.php:152 functions.php:169
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:160
+#, php-format
+msgid "%3$s"
+msgstr ""
+
+#: functions.php:201 functions.php:221 functions.php:322
+msgid "Edit"
+msgstr ""
+
+#: functions.php:205
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:207
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:221
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:244
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:246
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:255
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:257 functions.php:267
+msgid "The footer widget area"
+msgstr ""
+
+#: functions.php:265
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:312
+msgid "Are you sure ?"
+msgstr ""
+
+#: functions.php:313
+msgid "Error: only images are allowed"
+msgstr ""
+
+#: functions.php:314
+msgid "Error: only .ico are allowed"
+msgstr ""
+
+#: functions.php:315
+msgid "Error: only .zip are allowed"
+msgstr ""
+
+#: functions.php:316
+msgid "Refresh the page ?"
+msgstr ""
+
+#: functions.php:317
+msgid "Uploading ..."
+msgstr ""
+
+#: functions.php:318 lib/panel/panel.php:253
+msgid "Add new background"
+msgstr ""
+
+#: functions.php:319 lib/panel/panel.php:69
+msgid "Change"
+msgstr ""
+
+#: functions.php:320 lib/panel/panel.php:426
+msgid "Expand"
+msgstr ""
+
+#: functions.php:321
+msgid "Collapse"
+msgstr ""
+
+#: functions.php:407
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:727 skl/framework/admin/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:728 skl/framework/admin/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:729 skl/framework/admin/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:730
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:731 skl/framework/admin/class-tgm-plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:732 skl/framework/admin/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:733 skl/framework/admin/class-tgm-plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:734 skl/framework/admin/class-tgm-plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:735 skl/framework/admin/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:736 skl/framework/admin/class-tgm-plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:737 skl/framework/admin/class-tgm-plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:738 skl/framework/admin/class-tgm-plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:739 skl/framework/admin/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:740 skl/framework/admin/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:741 skl/framework/admin/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:742 skl/framework/admin/class-tgm-plugin-activation.php:171
+#: skl/framework/admin/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:743
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:923 include/html/frame-post.php:78
+#: include/html/frame-post.php:153 include/html/pattern-blog.php:20
+#: include/html/pattern-company.php:61 include/php/companymarkers.php:443
+#: include/php/companymarkers.php:446 loop-sidebar.php:17
+msgid "Read More"
+msgstr ""
+
+#: include/html/company-tabs/blog.php:38 include/html/company-tabs/blog.php:65
+msgid "No Posts."
+msgstr ""
+
+#: include/html/company-tabs/company.php:33
+msgid "Own This Company?"
+msgstr ""
+
+#: include/html/company-tabs/company.php:37
+msgid "Claim This"
+msgstr ""
+
+#: include/html/company-tabs/company.php:41
+msgid "Please complete the required fields"
+msgstr ""
+
+#: include/html/company-tabs/company.php:46
+msgid "Claim has been successfully sent"
+msgstr ""
+
+#: include/html/company-tabs/company.php:52
+#: include/html/company-tabs/company.php:253
+#: include/html/company-tabs/contact.php:89 page-contactus.php:60
+#: page-contactus.php:107 skl/plugin/admin-options/opt/fields.php:105
+#: skl/plugin/import-company/import.php:144
+msgid "E-mail"
+msgstr ""
+
+#: include/html/company-tabs/company.php:53 lib/panel/panel.php:320
+#: skl/framework/widgets/login-widget.php:101
+msgid "Username"
+msgstr ""
+
+#: include/html/company-tabs/company.php:54
+msgid "Claim Comments"
+msgstr ""
+
+#: include/html/company-tabs/company.php:71 include/html/frame-search.php:186
+#: lib/panel/stars.php:12 lib/panel/stars.php:55
+msgid "Rating"
+msgstr ""
+
+#: include/html/company-tabs/company.php:102
+#: skl/plugin/admin-options/opt/fields.php:15
+#: skl/plugin/import-company/import.php:120
+msgid "Founded"
+msgstr ""
+
+#: include/html/company-tabs/company.php:117
+#: skl/plugin/admin-options/opt/fields.php:30
+#: skl/plugin/import-company/import.php:124
+msgid "Legal Entity"
+msgstr ""
+
+#: include/html/company-tabs/company.php:132
+#: skl/plugin/admin-options/opt/fields.php:45
+#: skl/plugin/import-company/import.php:128
+msgid "Turnover"
+msgstr ""
+
+#: include/html/company-tabs/company.php:147
+#: skl/plugin/admin-options/opt/fields.php:60
+#: skl/plugin/import-company/import.php:132
+msgid "Number of Employees"
+msgstr ""
+
+#: include/html/company-tabs/company.php:166
+msgid "Full Address"
+msgstr ""
+
+#: include/html/company-tabs/company.php:173
+msgid "ZIP code"
+msgstr ""
+
+#: include/html/company-tabs/company.php:238
+msgid "Visit Site"
+msgstr ""
+
+#: include/html/company-tabs/company.php:261
+msgid "Send E-mail"
+msgstr ""
+
+#: include/html/company-tabs/company.php:393
+msgid "Message Us"
+msgstr ""
+
+#: include/html/company-tabs/company.php:398
+#: include/html/company-tabs/contact.php:31
+msgid "Company Name"
+msgstr ""
+
+#: include/html/company-tabs/company.php:399
+#: include/html/company-tabs/contact.php:32
+msgid "Your E-mail"
+msgstr ""
+
+#: include/html/company-tabs/company.php:400
+#: include/html/company-tabs/contact.php:34 lib/panel/panel.php:283
+msgid "Subject"
+msgstr ""
+
+#: include/html/company-tabs/company.php:401
+#: include/html/company-tabs/contact.php:36
+msgid "How can we help You?"
+msgstr ""
+
+#: include/html/company-tabs/company.php:403
+#: include/html/company-tabs/contact.php:39 page-contactus.php:66
+msgid "Send Message"
+msgstr ""
+
+#: include/html/company-tabs/company.php:508
+msgid "Profile Description"
+msgstr ""
+
+#: include/html/company-tabs/company.php:521
+msgid "Range of Services"
+msgstr ""
+
+#: include/html/company-tabs/contact.php:14 page-contactus.php:42
+msgid "Find Us on Map"
+msgstr ""
+
+#: include/html/company-tabs/contact.php:26 page-contactus.php:54
+msgid "Send Us a Message"
+msgstr ""
+
+#: include/html/company-tabs/events.php:61
+msgid "Upcoming Events"
+msgstr ""
+
+#: include/html/company-tabs/events.php:95
+msgid "Share This Listing"
+msgstr ""
+
+#: include/html/company-tabs/events.php:137
+msgid "No Events"
+msgstr ""
+
+#: include/html/company-tabs/product.php:24
+#: include/html/frame-pricing-plans.php:60
+#: include/html/frame-pricing-plans.php:85
+#: include/html/frame-pricing-plans.php:110
+#: include/html/frame-pricing-plans.php:135 include/php/logout-form.php:94
+#: include/php/logout-form.php:106 skl/plugin/user-frontend/header.php:95
+msgid "Products"
+msgstr ""
+
+#: include/html/company-tabs/product.php:38
+msgid "Cart"
+msgstr ""
+
+#: include/html/company-tabs/product.php:51
+msgid "Company haven't yet any product."
+msgstr ""
+
+#: include/html/frame-breadcrumbs.php:19 page-blog.php:23 page-blog.php:27
+#: page-search-blog.php:17 page-search-mega.php:22
+#: skl/plugin/user-frontend/header.php:75
+#: skl/plugin/user-frontend/header.php:83
+msgid "Home"
+msgstr ""
+
+#: include/html/frame-category-new.php:160
+#: include/html/frame-category-new.php:298
+msgid "View All"
+msgstr ""
+
+#: include/html/frame-category-new.php:169
+#: include/html/frame-category-new.php:307
+msgid "Show Category Page"
+msgstr ""
+
+#: include/html/frame-notice.php:6
+msgid "To view this information you need to"
+msgstr ""
+
+#: include/html/frame-notice.php:6
+msgid "subscribe or upgrade your Account"
+msgstr ""
+
+#: include/html/frame-partners.php:49
+msgid "Our Partners"
+msgstr ""
+
+#: include/html/frame-post.php:26
+msgid "Featured Companies"
+msgstr ""
+
+#: include/html/frame-post.php:101
+msgid "Latest Companies"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:41
+msgid "Pricing Plans"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:49
+#: include/html/frame-pricing-plans.php:74
+#: include/html/frame-pricing-plans.php:99
+#: include/html/frame-pricing-plans.php:124 include/html/frame-register.php:60
+#: skl/framework/widgets/login-widget.php:143
+#: skl/functions/accounts-reg.php:563
+msgid "Free"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:51
+#: include/html/frame-pricing-plans.php:54
+#: include/html/frame-pricing-plans.php:57
+#: include/html/frame-pricing-plans.php:60
+#: include/html/frame-pricing-plans.php:66
+#: include/html/frame-pricing-plans.php:76
+#: include/html/frame-pricing-plans.php:79
+#: include/html/frame-pricing-plans.php:82
+#: include/html/frame-pricing-plans.php:85
+#: include/html/frame-pricing-plans.php:91
+#: include/html/frame-pricing-plans.php:101
+#: include/html/frame-pricing-plans.php:104
+#: include/html/frame-pricing-plans.php:107
+#: include/html/frame-pricing-plans.php:110
+#: include/html/frame-pricing-plans.php:116
+#: include/html/frame-pricing-plans.php:126
+#: include/html/frame-pricing-plans.php:129
+#: include/html/frame-pricing-plans.php:132
+#: include/html/frame-pricing-plans.php:135
+#: include/html/frame-pricing-plans.php:141
+msgid "Unlimited"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:51
+#: include/html/frame-pricing-plans.php:76
+#: include/html/frame-pricing-plans.php:101
+#: include/html/frame-pricing-plans.php:126 lib/panel/company.php:16
+#: page-company.php:34 single-company.php:146
+#: skl/plugin/user-frontend/header.php:86
+msgid "Company"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:51
+#: include/html/frame-pricing-plans.php:76
+#: include/html/frame-pricing-plans.php:101
+#: include/html/frame-pricing-plans.php:126
+#: include/html/frame-search-mega.php:28 include/php/logout-form.php:85
+#: include/php/logout-form.php:99
+msgid "Companies"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:54
+#: include/html/frame-pricing-plans.php:79
+#: include/html/frame-pricing-plans.php:104
+#: include/html/frame-pricing-plans.php:129
+#: skl/plugin/user-frontend/header.php:89
+msgid "Post"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:54
+#: include/html/frame-pricing-plans.php:79
+#: include/html/frame-pricing-plans.php:104
+#: include/html/frame-pricing-plans.php:129 include/php/logout-form.php:88
+#: include/php/logout-form.php:101
+msgid "Posts"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:57
+#: include/html/frame-pricing-plans.php:82
+#: include/html/frame-pricing-plans.php:107
+#: include/html/frame-pricing-plans.php:132
+msgid "Event"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:57
+#: include/html/frame-pricing-plans.php:82
+#: include/html/frame-pricing-plans.php:107
+#: include/html/frame-pricing-plans.php:132
+#: include/html/frame-search-mega.php:30 include/php/logout-form.php:91
+#: include/php/logout-form.php:103 lib/panel/company.php:828
+#: single-company.php:157 skl/plugin/user-frontend/header.php:92
+msgid "Events"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:60
+#: include/html/frame-pricing-plans.php:85
+#: include/html/frame-pricing-plans.php:110
+#: include/html/frame-pricing-plans.php:135
+msgid "Product"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:63
+#: include/html/frame-pricing-plans.php:88
+#: include/html/frame-pricing-plans.php:113
+#: include/html/frame-pricing-plans.php:138
+msgid "Can rate company"
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:66
+#: include/html/frame-pricing-plans.php:91
+#: include/html/frame-pricing-plans.php:116
+#: include/html/frame-pricing-plans.php:141
+msgid "Period of use "
+msgstr ""
+
+#: include/html/frame-pricing-plans.php:66
+#: include/html/frame-pricing-plans.php:91
+#: include/html/frame-pricing-plans.php:116
+#: include/html/frame-pricing-plans.php:141
+msgid " days"
+msgstr ""
+
+#: include/html/frame-register.php:5
+msgid "Register Now!"
+msgstr ""
+
+#: include/html/frame-register.php:12 include/html/frame-register.php:21
+msgid "Step"
+msgstr ""
+
+#: include/html/frame-register.php:12 include/php/login-form.php:20
+#: skl/framework/widgets/login-widget.php:87
+msgid "Register"
+msgstr ""
+
+#: include/html/frame-register.php:14
+msgid "Login details:"
+msgstr ""
+
+#: include/html/frame-register.php:15 include/php/login-form.php:7
+#: include/php/login-form.php:10 include/php/login-form.php:12
+#: skl/framework/widgets/login-widget.php:86
+msgid "Login"
+msgstr ""
+
+#: include/html/frame-register.php:16 lib/panel/claim.php:47
+msgid "E-Mail"
+msgstr ""
+
+#: include/html/frame-register.php:21
+#: skl/framework/widgets/login-widget.php:109
+msgid "Package"
+msgstr ""
+
+#: include/html/frame-register.php:23
+msgid "Choose Package:"
+msgstr ""
+
+#: include/html/frame-search-mega.php:27
+msgid "General Search"
+msgstr ""
+
+#: include/html/frame-search-mega.php:33
+msgid "Products & Services"
+msgstr ""
+
+#: include/html/frame-search-mega.php:35
+msgid "Blogs"
+msgstr ""
+
+#: include/html/frame-search-mega.php:39
+msgid "Search..."
+msgstr ""
+
+#: include/html/frame-search.php:36
+msgid "Show Advanced Search"
+msgstr ""
+
+#: include/html/frame-search.php:37
+msgid "Hide Advanced Search"
+msgstr ""
+
+#: include/html/frame-search.php:42
+msgid "Insert company name"
+msgstr ""
+
+#: include/html/frame-search.php:43
+msgid "Select a location"
+msgstr ""
+
+#: include/html/frame-search.php:45
+msgid "Select Category"
+msgstr ""
+
+#: include/html/frame-search.php:171 include/html/frame-search.php:291
+msgid "Search Now"
+msgstr ""
+
+#: include/html/frame-search.php:179
+msgid "Distance around my position"
+msgstr ""
+
+#: include/html/frame-search.php:191 page-search.php:130
+msgid "Days Published"
+msgstr ""
+
+#: include/html/frame-search.php:196 page-search-default.php:60
+#: page-search.php:103
+msgid "Location"
+msgstr ""
+
+#: include/html/frame-search.php:198 lib/panel/company.php:676
+#: skl/plugin/import-company/import.php:96
+msgid "Country"
+msgstr ""
+
+#: include/html/frame-search.php:235 lib/panel/company.php:682
+#: skl/plugin/import-company/import.php:100
+msgid "Region"
+msgstr ""
+
+#: include/html/frame-search.php:239
+msgid "Industry"
+msgstr ""
+
+#: include/html/frame-search.php:241
+msgid "Select"
+msgstr ""
+
+#: include/html/frame-search.php:304
+msgid "km"
+msgstr ""
+
+#: include/html/frame-sidebar-blog.php:28 include/php/logout-form.php:100
+#: lib/panel/company.php:86
+msgid "Categories"
+msgstr ""
+
+#: include/html/frame-sidebar-blog.php:44
+msgid "Archives"
+msgstr ""
+
+#: include/html/frame-sidebar-blog.php:52
+msgid "Meta"
+msgstr ""
+
+#: include/html/frame-sidebar.php:36 include/html/pattern-company.php:10
+#: include/php/companymarkers.php:248
+msgid "Featured"
+msgstr ""
+
+#: include/html/frame-sidebar.php:60
+msgid "Recently Added"
+msgstr ""
+
+#: include/html/frame-sidebar.php:93
+msgid "Latest Posts"
+msgstr ""
+
+#: include/html/pattern-blog.php:20
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: include/html/str-home-map.php:48
+msgid "Hide Map"
+msgstr ""
+
+#: include/html/str-home-map.php:50
+msgid "Show Map"
+msgstr ""
+
+#: include/html/str-home-map.php:60
+msgid "No search results"
+msgstr ""
+
+#: include/html/str-home-map.php:67
+msgid "Show on map"
+msgstr ""
+
+#: include/html/str-home-slider.php:12
+msgid "Revolution slider is deactivate"
+msgstr ""
+
+#: include/php/login-form.php:11 lib/panel/panel.php:325
+msgid "Password"
+msgstr ""
+
+#: include/php/login-form.php:13
+msgid "Forgot Password?"
+msgstr ""
+
+#: include/php/logout-form.php:70 skl/functions/accounts-reg.php:435
+#: skl/plugin/user-frontend/header.php:97
+msgid "My Account"
+msgstr ""
+
+#: include/php/logout-form.php:73
+msgid "My Plan"
+msgstr ""
+
+#: include/php/logout-form.php:77
+msgid "Metrodir CP"
+msgstr ""
+
+#: include/php/logout-form.php:81 lib/panel/company.php:467
+msgid "Items"
+msgstr ""
+
+#: include/php/logout-form.php:108
+msgid "Pages"
+msgstr ""
+
+#: include/php/logout-form.php:109
+msgid "Teams"
+msgstr ""
+
+#: include/php/logout-form.php:114 skl/framework/widgets/login-widget.php:79
+msgid "Logout"
+msgstr ""
+
+#: lib/class/meta_box.php:176
+msgid "Upload only PNG, JPG or GIF files."
+msgstr ""
+
+#: lib/class/meta_box.php:189 lib/class/meta_box.php:232
+msgid "Upload image to gallery"
+msgstr ""
+
+#: lib/class/meta_box.php:197
+msgid "Add from post media:"
+msgstr ""
+
+#: lib/class/meta_box.php:226
+msgid "No images in post media."
+msgstr ""
+
+#: lib/class/meta_box.php:264
+msgid "Add New Custom Field"
+msgstr ""
+
+#: lib/class/meta_box.php:268 lib/class/meta_box.php:291
+msgid "Label"
+msgstr ""
+
+#: lib/class/meta_box.php:270 lib/class/meta_box.php:294
+msgid "Value"
+msgstr ""
+
+#: lib/class/meta_box.php:272
+msgid "Add Custom Field"
+msgstr ""
+
+#: lib/class/meta_box.php:293
+msgid "Label of your Custom Field"
+msgstr ""
+
+#: lib/class/meta_box.php:296
+msgid "Your value. This is displayed in the front end. HTML accepted"
+msgstr ""
+
+#: lib/class/meta_box.php:297
+msgid "Remove Value"
+msgstr ""
+
+#: lib/class/meta_box.php:332
+msgid "Select "
+msgstr ""
+
+#: lib/class/settings.php:188 lib/class/settings.php:256
+msgid "Please enter your name."
+msgstr ""
+
+#: lib/class/settings.php:197 lib/class/settings.php:265
+msgid "Please enter valid e-mail."
+msgstr ""
+
+#: lib/class/settings.php:205 lib/class/settings.php:273
+msgid "Please enter your message."
+msgstr ""
+
+#: lib/class/settings.php:229 lib/class/settings.php:236
+#: lib/class/settings.php:296 lib/class/settings.php:303
+msgid "Your message has been sent. Thank you!"
+msgstr ""
+
+#: lib/class/settings.php:319
+msgid "Invalid arguments"
+msgstr ""
+
+#: lib/class/settings.php:324
+msgid "Context don't exist"
+msgstr ""
+
+#: lib/class/settings.php:327
+msgid "File don't exists in context"
+msgstr ""
+
+#: lib/class/settings.php:331
+msgid "File deleted."
+msgstr ""
+
+#: lib/class/settings.php:333
+msgid "System can't delete file"
+msgstr ""
+
+#: lib/class/settings.php:347 lib/class/settings.php:350
+#: lib/class/settings.php:409 lib/class/settings.php:514
+msgid "Access denided"
+msgstr ""
+
+#: lib/class/settings.php:437
+msgid "No file !"
+msgstr ""
+
+#: lib/class/settings.php:440
+msgid "Extension not allowed, allowed extentions : "
+msgstr ""
+
+#: lib/class/settings.php:446 lib/class/settings.php:456
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: lib/class/settings.php:448 lib/class/settings.php:450
+msgid "The file you are trying to upload is too big."
+msgstr ""
+
+#: lib/class/settings.php:452
+msgid "The file you are trying upload was only partially uploaded."
+msgstr ""
+
+#: lib/class/settings.php:454
+msgid "You must select an image for upload."
+msgstr ""
+
+#: lib/class/settings.php:461
+msgid "Unknown error"
+msgstr ""
+
+#: lib/class/settings.php:523
+msgid "Invalid security code"
+msgstr ""
+
+#: lib/class/settings.php:727
+msgid "Your all changes have been saved."
+msgstr ""
+
+#: lib/panel/claim.php:12
+msgid "Claims Listing"
+msgstr ""
+
+#: lib/panel/claim.php:13
+msgid "Claim"
+msgstr ""
+
+#: lib/panel/claim.php:14 lib/panel/claim.php:15 lib/panel/claim.php:17
+msgid "Add New claim"
+msgstr ""
+
+#: lib/panel/claim.php:16
+msgid "Edit claim"
+msgstr ""
+
+#: lib/panel/claim.php:18
+msgid "View claim"
+msgstr ""
+
+#: lib/panel/claim.php:19
+msgid "Search claim"
+msgstr ""
+
+#: lib/panel/claim.php:20
+msgid "No claim items found"
+msgstr ""
+
+#: lib/panel/claim.php:21
+msgid "No claim items found in trash"
+msgstr ""
+
+#: lib/panel/claim.php:43
+msgid "Action"
+msgstr ""
+
+#: lib/panel/claim.php:45 lib/panel/stars.php:56
+msgid "Message"
+msgstr ""
+
+#: lib/panel/claim.php:46
+msgid "Claim for company"
+msgstr ""
+
+#: lib/panel/claim.php:48 lib/panel/company.php:88 lib/panel/stars.php:57
+#: lib/panel/team.php:45 page-search-default.php:82 page-search.php:154
+#: skl/plugin/import-company/import.php:44
+msgid "Date"
+msgstr ""
+
+#: lib/panel/claim.php:91
+msgid "Approved"
+msgstr ""
+
+#: lib/panel/claim.php:93
+msgid "Approve and register user"
+msgstr ""
+
+#: lib/panel/claim.php:119
+msgid "This username is already registered!"
+msgstr ""
+
+#: lib/panel/claim.php:127
+msgid "This email is already registered!"
+msgstr ""
+
+#: lib/panel/claim.php:152
+msgid "Claim has been sent!"
+msgstr ""
+
+#: lib/panel/claim.php:159
+msgid "Error!"
+msgstr ""
+
+#: lib/panel/claim.php:200
+msgid ""
+"Claim was approved! New user was registered and assignated to Item. Email "
+"with generated password was sent."
+msgstr ""
+
+#: lib/panel/company.php:17
+msgid "Company Item"
+msgstr ""
+
+#: lib/panel/company.php:18 lib/panel/team.php:11
+msgid "Add New Item"
+msgstr ""
+
+#: lib/panel/company.php:19 lib/panel/company.php:21
+msgid "Add New Company Item"
+msgstr ""
+
+#: lib/panel/company.php:20
+msgid "Edit Company Item"
+msgstr ""
+
+#: lib/panel/company.php:22 lib/panel/team.php:15
+msgid "View Item"
+msgstr ""
+
+#: lib/panel/company.php:23
+msgid "Search Company"
+msgstr ""
+
+#: lib/panel/company.php:24
+msgid "No Company items found"
+msgstr ""
+
+#: lib/panel/company.php:25
+msgid "No Company items found in trash"
+msgstr ""
+
+#: lib/panel/company.php:53
+msgid "Search Company Categories"
+msgstr ""
+
+#: lib/panel/company.php:54
+msgid "All Company Categories"
+msgstr ""
+
+#: lib/panel/company.php:55
+msgid "Edit Company Category"
+msgstr ""
+
+#: lib/panel/company.php:56
+msgid "Update Category"
+msgstr ""
+
+#: lib/panel/company.php:57
+msgid "Add New Company Category"
+msgstr ""
+
+#: lib/panel/company.php:58
+msgid "New Company Category Name"
+msgstr ""
+
+#: lib/panel/company.php:59
+msgid "Company Categories"
+msgstr ""
+
+#: lib/panel/company.php:83 lib/panel/company.php:462 lib/panel/menus.php:34
+#: lib/panel/menus.php:389 skl/plugin/import-company/import.php:249
+msgid "Image"
+msgstr ""
+
+#: lib/panel/company.php:84 lib/panel/team.php:41
+msgctxt "column name"
+msgid "Title"
+msgstr ""
+
+#: lib/panel/company.php:87 lib/panel/team.php:44
+msgid "Author"
+msgstr ""
+
+#: lib/panel/company.php:105 lib/panel/team.php:71 lib/panel/team.php:80
+#: lib/panel/team.php:89
+msgid "Unavailable"
+msgstr ""
+
+#: lib/panel/company.php:460 lib/panel/menus.php:38 lib/panel/menus.php:231
+msgid "Color"
+msgstr ""
+
+#: lib/panel/company.php:461 lib/panel/menus.php:42 lib/panel/menus.php:265
+#: skl/plugin/import-company/import.php:248
+msgid "Icon"
+msgstr ""
+
+#: lib/panel/company.php:463
+msgid "Custom Icon"
+msgstr ""
+
+#: lib/panel/company.php:464
+msgid "Custom Marker"
+msgstr ""
+
+#: lib/panel/company.php:465 lib/panel/company.php:624 lib/panel/menus.php:402
+#: lib/panel/panel.php:400 lib/panel/stars.php:254
+#: skl/plugin/import-company/import.php:64
+#: skl/plugin/import-company/import.php:235
+msgid "Description"
+msgstr ""
+
+#: lib/panel/company.php:466
+msgid "Slug"
+msgstr ""
+
+#: lib/panel/company.php:575
+msgid "Featured Company"
+msgstr ""
+
+#: lib/panel/company.php:604 lib/panel/panel.php:3 lib/panel/stars.php:137
+#: lib/panel/team.php:102 lib/panel/team.php:163
+msgid "Options"
+msgstr ""
+
+#: lib/panel/company.php:618 skl/plugin/import-company/import.php:60
+msgid "Welcome text"
+msgstr ""
+
+#: lib/panel/company.php:621 skl/plugin/import-company/import.php:61
+msgid "Welcome text company"
+msgstr ""
+
+#: lib/panel/company.php:628 skl/plugin/import-company/import.php:65
+msgid "Description company."
+msgstr ""
+
+#: lib/panel/company.php:631
+msgid "Company Image"
+msgstr ""
+
+#: lib/panel/company.php:634
+msgid "Add company image."
+msgstr ""
+
+#: lib/panel/company.php:637 skl/plugin/import-company/import.php:72
+msgid "Social facebook"
+msgstr ""
+
+#: lib/panel/company.php:643 skl/plugin/import-company/import.php:76
+msgid "Social twitter"
+msgstr ""
+
+#: lib/panel/company.php:649 skl/plugin/import-company/import.php:80
+msgid "Social Google+"
+msgstr ""
+
+#: lib/panel/company.php:655 skl/plugin/import-company/import.php:84
+msgid "Social Linkedin"
+msgstr ""
+
+#: lib/panel/company.php:661 skl/plugin/import-company/import.php:88
+msgid "Social Pinterest"
+msgstr ""
+
+#: lib/panel/company.php:667 skl/plugin/import-company/import.php:92
+msgid "Social Dribbble"
+msgstr ""
+
+#: lib/panel/company.php:673
+msgid "Address company"
+msgstr ""
+
+#: lib/panel/company.php:679 lib/panel/company.php:709
+#: lib/panel/company.php:756 lib/panel/company.php:762
+#: lib/panel/company.php:768 skl/plugin/import-company/import.php:97
+#: skl/plugin/import-company/import.php:101
+#: skl/plugin/import-company/import.php:105
+#: skl/plugin/import-company/import.php:125
+#: skl/plugin/import-company/import.php:129
+#: skl/plugin/import-company/import.php:133
+#: skl/plugin/import-company/import.php:137
+#: skl/plugin/import-company/import.php:141
+#: skl/plugin/import-company/import.php:145
+msgid " "
+msgstr ""
+
+#: lib/panel/company.php:685 lib/panel/company.php:691
+#: lib/panel/company.php:699
+msgid "  "
+msgstr ""
+
+#: lib/panel/company.php:694
+msgid "ZIP codes"
+msgstr ""
+
+#: lib/panel/company.php:702
+msgid "GPS coordinate (this field need to show marker on map)"
+msgstr ""
+
+#: lib/panel/company.php:713 skl/plugin/import-company/import.php:112
+msgid "longitude"
+msgstr ""
+
+#: lib/panel/company.php:716 skl/plugin/import-company/import.php:116
+msgid "Show Streetview instead of the map in detail"
+msgstr ""
+
+#: lib/panel/company.php:730 skl/plugin/import-company/import.php:148
+msgid "Email contact form"
+msgstr ""
+
+#: lib/panel/company.php:734
+msgid "Contact form display on single company page"
+msgstr ""
+
+#: lib/panel/company.php:737 skl/plugin/import-company/import.php:152
+msgid "Contact tabs"
+msgstr ""
+
+#: lib/panel/company.php:744 skl/plugin/import-company/import.php:164
+msgid "Range of Services tags"
+msgstr ""
+
+#: lib/panel/company.php:747
+msgid "(Separate by , )"
+msgstr ""
+
+#: lib/panel/company.php:750 lib/panel/panel.php:105
+msgid "Opening Hours:"
+msgstr ""
+
+#: lib/panel/company.php:753
+msgid "1 interval, (days, hours !!Separate by , )"
+msgstr ""
+
+#: lib/panel/company.php:759
+msgid "2 interval"
+msgstr ""
+
+#: lib/panel/company.php:765
+msgid "3 interval"
+msgstr ""
+
+#: lib/panel/company.php:771
+msgid "4 interval"
+msgstr ""
+
+#: lib/panel/company.php:786 lib/panel/company.php:885
+msgid ""
+"For use need install and activate \"WooCommerce\" plugin. <a href=\"http://"
+"www.woothemes.com/woocommerce/\">Install Plugin</a> "
+msgstr ""
+
+#: lib/panel/company.php:796
+msgid "Activate portfolio tabs on site"
+msgstr ""
+
+#: lib/panel/company.php:803
+msgid "Grid portfolio "
+msgstr ""
+
+#: lib/panel/company.php:810
+msgid "Gallery"
+msgstr ""
+
+#: lib/panel/company.php:822
+msgid "Activate events tab on site"
+msgstr ""
+
+#: lib/panel/company.php:832
+msgid ""
+"To use this feature you need install and activate the \"Events Manager\" "
+"plugin. <a href=\"themes.php?page=install-required-plugins\">Install "
+"Required Plugins</a> "
+msgstr ""
+
+#: lib/panel/company.php:843
+msgid "Activate blog tab on site"
+msgstr ""
+
+#: lib/panel/company.php:849
+msgid "Posts Display"
+msgstr ""
+
+#: lib/panel/company.php:855 page-blog.php:18 page-blog.php:22
+#: page-blog.php:28 single-company.php:163
+msgid "Blog"
+msgstr ""
+
+#: lib/panel/company.php:869
+msgid "Activate products/services tab on site"
+msgstr ""
+
+#: lib/panel/company.php:875
+msgid "Woocommerce cart"
+msgstr ""
+
+#: lib/panel/company.php:881
+msgid "Products/Services"
+msgstr ""
+
+#: lib/panel/company.php:895
+msgid "Activate custom tab"
+msgstr ""
+
+#: lib/panel/company.php:901
+msgid "Title for custom tab"
+msgstr ""
+
+#: lib/panel/company.php:907
+msgid "Content for custom tab"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: lib/panel/menus.php:141
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: lib/panel/menus.php:145
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: lib/panel/menus.php:158
+msgid "sub item"
+msgstr ""
+
+#: lib/panel/menus.php:173
+msgid "Move up"
+msgstr ""
+
+#: lib/panel/menus.php:186
+msgid "Move down"
+msgstr ""
+
+#: lib/panel/menus.php:188 lib/panel/menus.php:190
+msgid "Edit Menu Item"
+msgstr ""
+
+#: lib/panel/menus.php:199
+msgid "URL"
+msgstr ""
+
+#: lib/panel/menus.php:206
+msgid "Navigation Label"
+msgstr ""
+
+#: lib/panel/menus.php:212
+msgid "Title Attribute"
+msgstr ""
+
+#: lib/panel/menus.php:219
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: lib/panel/menus.php:224
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: lib/panel/menus.php:378 lib/panel/menus.php:384
+msgid "Remove both images"
+msgstr ""
+
+#: lib/panel/menus.php:396
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: lib/panel/menus.php:404
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: lib/panel/menus.php:410
+msgid "Move"
+msgstr ""
+
+#: lib/panel/menus.php:411
+msgid "Up one"
+msgstr ""
+
+#: lib/panel/menus.php:412
+msgid "Down one"
+msgstr ""
+
+#: lib/panel/menus.php:415
+msgid "To the top"
+msgstr ""
+
+#: lib/panel/menus.php:422
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: lib/panel/menus.php:435 skl/plugin/admin-options/opt/fields.php:21
+#: skl/plugin/admin-options/opt/fields.php:36
+#: skl/plugin/admin-options/opt/fields.php:51
+#: skl/plugin/admin-options/opt/fields.php:66
+#: skl/plugin/admin-options/opt/fields.php:81
+#: skl/plugin/admin-options/opt/fields.php:96
+#: skl/plugin/admin-options/opt/fields.php:111
+#: skl/plugin/admin-options/opt/fields.php:126
+msgid "Remove"
+msgstr ""
+
+#: lib/panel/menus.php:436 lib/panel/panel.php:401
+msgid "Cancel"
+msgstr ""
+
+#: lib/panel/panel.php:6 lib/panel/panel.php:413
+msgid "Update"
+msgstr ""
+
+#: lib/panel/panel.php:6
+msgid "There is a new version available."
+msgstr ""
+
+#: lib/panel/panel.php:21
+msgid "metrodir"
+msgstr ""
+
+#: lib/panel/panel.php:22 lib/panel/panel.php:148
+msgid "Packages"
+msgstr ""
+
+#: lib/panel/panel.php:23
+msgid "Configuration"
+msgstr ""
+
+#: lib/panel/panel.php:29 lib/panel/panel.php:337
+msgid "Save changes"
+msgstr ""
+
+#: lib/panel/panel.php:35
+msgid "Social"
+msgstr ""
+
+#: lib/panel/panel.php:64
+msgid "Site logo"
+msgstr ""
+
+#: lib/panel/panel.php:76
+msgid "Footer text"
+msgstr ""
+
+#: lib/panel/panel.php:81
+msgid "Address Details:"
+msgstr ""
+
+#: lib/panel/panel.php:96
+msgid "Adress"
+msgstr ""
+
+#: lib/panel/panel.php:109
+msgid "1) Day interval"
+msgstr ""
+
+#: lib/panel/panel.php:113
+msgid "1) Time interval"
+msgstr ""
+
+#: lib/panel/panel.php:118
+msgid "2) Day interval"
+msgstr ""
+
+#: lib/panel/panel.php:121
+msgid "2) Time interval"
+msgstr ""
+
+#: lib/panel/panel.php:126
+msgid "3) Day interval"
+msgstr ""
+
+#: lib/panel/panel.php:129
+msgid "3) Time interval"
+msgstr ""
+
+#: lib/panel/panel.php:133
+msgid "4) Day interval"
+msgstr ""
+
+#: lib/panel/panel.php:136
+msgid "4) Time interval"
+msgstr ""
+
+#: lib/panel/panel.php:152
+msgid "Currency (USD, EUR)"
+msgstr ""
+
+#: lib/panel/panel.php:157
+msgid "1 package name"
+msgstr ""
+
+#: lib/panel/panel.php:161
+msgid "1 package price"
+msgstr ""
+
+#: lib/panel/panel.php:166
+msgid "2 package name"
+msgstr ""
+
+#: lib/panel/panel.php:170
+msgid "2 package price"
+msgstr ""
+
+#: lib/panel/panel.php:175
+msgid "3 package name"
+msgstr ""
+
+#: lib/panel/panel.php:179
+msgid "3 package price"
+msgstr ""
+
+#: lib/panel/panel.php:189
+msgid "Configurations"
+msgstr ""
+
+#: lib/panel/panel.php:193
+msgid "Boxed version"
+msgstr ""
+
+#: lib/panel/panel.php:196 skl/plugin/admin-options/opt/accounts.php:10
+#: skl/plugin/admin-options/opt/accounts.php:25
+#: skl/plugin/admin-options/opt/accounts.php:82
+#: skl/plugin/admin-options/opt/accounts.php:93
+#: skl/plugin/admin-options/opt/accounts.php:136
+#: skl/plugin/admin-options/opt/accounts.php:156
+#: skl/plugin/admin-options/opt/accounts.php:213
+#: skl/plugin/admin-options/opt/accounts.php:224
+#: skl/plugin/admin-options/opt/accounts.php:267
+#: skl/plugin/admin-options/opt/accounts.php:288
+#: skl/plugin/admin-options/opt/accounts.php:345
+#: skl/plugin/admin-options/opt/accounts.php:356
+#: skl/plugin/admin-options/opt/accounts.php:399
+#: skl/plugin/admin-options/opt/accounts.php:421
+#: skl/plugin/admin-options/opt/accounts.php:478
+#: skl/plugin/admin-options/opt/accounts.php:489
+#: skl/plugin/admin-options/opt/accounts.php:532
+#: skl/plugin/admin-options/opt/accounts.php:551
+msgid "Yes"
+msgstr ""
+
+#: lib/panel/panel.php:199 skl/plugin/admin-options/opt/accounts.php:26
+#: skl/plugin/admin-options/opt/accounts.php:157
+#: skl/plugin/admin-options/opt/accounts.php:289
+#: skl/plugin/admin-options/opt/accounts.php:422
+msgid "No"
+msgstr ""
+
+#: lib/panel/panel.php:205
+msgid "Home view"
+msgstr ""
+
+#: lib/panel/panel.php:208
+msgid "Map"
+msgstr ""
+
+#: lib/panel/panel.php:211
+msgid "Without map"
+msgstr ""
+
+#: lib/panel/panel.php:214
+msgid "Revolution slider"
+msgstr ""
+
+#: lib/panel/panel.php:219
+msgid "Centre home map"
+msgstr ""
+
+#: lib/panel/panel.php:224
+msgid "Centre by address:"
+msgstr ""
+
+#: lib/panel/panel.php:230
+msgid "Centre by geolacation"
+msgstr ""
+
+#: lib/panel/panel.php:234
+msgid "Centre by random company"
+msgstr ""
+
+#: lib/panel/panel.php:238
+msgid "Centre by last company "
+msgstr ""
+
+#: lib/panel/panel.php:245
+msgid "Favicon"
+msgstr ""
+
+#: lib/panel/panel.php:252
+msgid "Background Image"
+msgstr ""
+
+#: lib/panel/panel.php:267
+msgid "Copyright text"
+msgstr ""
+
+#: lib/panel/panel.php:271
+msgid "Check for update"
+msgstr ""
+
+#: lib/panel/panel.php:272
+msgid "Check"
+msgstr ""
+
+#: lib/panel/panel.php:276
+msgid "Contact Form"
+msgstr ""
+
+#: lib/panel/panel.php:279
+msgid "Contact mail"
+msgstr ""
+
+#: lib/panel/panel.php:287
+msgid "Method"
+msgstr ""
+
+#: lib/panel/panel.php:291
+msgid "Mail"
+msgstr ""
+
+#: lib/panel/panel.php:294
+msgid "SMTP"
+msgstr ""
+
+#: lib/panel/panel.php:299
+msgid "Protocol"
+msgstr ""
+
+#: lib/panel/panel.php:302
+msgid "TLS"
+msgstr ""
+
+#: lib/panel/panel.php:305
+msgid "SSL"
+msgstr ""
+
+#: lib/panel/panel.php:307
+msgid "SMTP connections security protocol.<br /> Gmail use 'SSL'"
+msgstr ""
+
+#: lib/panel/panel.php:310
+msgid "Host"
+msgstr ""
+
+#: lib/panel/panel.php:312
+msgid "SMTP connection host.<br /> Gmail : 'smtp.gmail.com'"
+msgstr ""
+
+#: lib/panel/panel.php:315
+msgid "Port"
+msgstr ""
+
+#: lib/panel/panel.php:317
+msgid "SMTP connection port, 25 by default.<br /> Gmail : '465'"
+msgstr ""
+
+#: lib/panel/panel.php:322
+msgid "SMTP server username.<br /> Gmail : 'your_mail'"
+msgstr ""
+
+#: lib/panel/panel.php:327
+msgid "SMTP server password.<br /> Gmail : 'your_password'"
+msgstr ""
+
+#: lib/panel/panel.php:330
+msgid "Test Connection"
+msgstr ""
+
+#: lib/panel/panel.php:355 lib/panel/panel.php:426
+msgid "Add"
+msgstr ""
+
+#: lib/panel/panel.php:356 lib/panel/panel.php:413 lib/panel/panel.php:426
+msgid "Delete"
+msgstr ""
+
+#: lib/panel/panel.php:397 page-search-default.php:83 page-search.php:155
+#: skl/framework/widgets/count-companies-widget.php:74
+#: skl/framework/widgets/login-widget.php:239
+#: skl/plugin/import-company/import.php:24
+#: skl/plugin/import-company/import.php:231
+msgid "Title"
+msgstr ""
+
+#: lib/panel/panel.php:398
+msgid "Where ?"
+msgstr ""
+
+#: lib/panel/panel.php:399
+msgid "When ?"
+msgstr ""
+
+#: lib/panel/stars.php:13
+msgid "Rating Stars"
+msgstr ""
+
+#: lib/panel/stars.php:14
+msgid "Add New Stars"
+msgstr ""
+
+#: lib/panel/stars.php:15 lib/panel/stars.php:17
+msgid "Add New stars"
+msgstr ""
+
+#: lib/panel/stars.php:16
+msgid "Edit stars"
+msgstr ""
+
+#: lib/panel/stars.php:18
+msgid "View Stars"
+msgstr ""
+
+#: lib/panel/stars.php:19
+msgid "Search stars"
+msgstr ""
+
+#: lib/panel/stars.php:20
+msgid "No stars items found"
+msgstr ""
+
+#: lib/panel/stars.php:21
+msgid "No stars items found in trash"
+msgstr ""
+
+#: lib/panel/stars.php:54
+msgid "Rating for"
+msgstr ""
+
+#: lib/panel/stars.php:122
+msgid "- Average -"
+msgstr ""
+
+#: lib/panel/stars.php:151
+msgid "Name people"
+msgstr ""
+
+#: lib/panel/stars.php:225
+msgid "Your Rating"
+msgstr ""
+
+#: lib/panel/stars.php:228
+msgid "Rating has been successfully sent."
+msgstr ""
+
+#: lib/panel/stars.php:232
+msgid "Sorry, you already rated."
+msgstr ""
+
+#: lib/panel/stars.php:240
+msgid "ERROR: Please complete the required fields"
+msgstr ""
+
+#: lib/panel/stars.php:246
+msgid "Rating has been successfully sent"
+msgstr ""
+
+#: lib/panel/stars.php:255
+msgid "Send rating"
+msgstr ""
+
+#: lib/panel/stars.php:281
+msgid " Ratings"
+msgstr ""
+
+#: lib/panel/stars.php:321
+#: skl/framework/admin/class-tgm-plugin-activation.php:1950
+#: skl/framework/admin/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: lib/panel/team.php:9
+msgid "Team"
+msgstr ""
+
+#: lib/panel/team.php:10
+msgid "Team Item"
+msgstr ""
+
+#: lib/panel/team.php:12 lib/panel/team.php:14
+msgid "Add New content Item"
+msgstr ""
+
+#: lib/panel/team.php:13
+msgid "Edit content Item"
+msgstr ""
+
+#: lib/panel/team.php:16
+msgid "Search content"
+msgstr ""
+
+#: lib/panel/team.php:17
+msgid "No content items found"
+msgstr ""
+
+#: lib/panel/team.php:18
+msgid "No content items found in trash"
+msgstr ""
+
+#: lib/panel/team.php:40
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/panel/team.php:43 lib/panel/team.php:114 lib/panel/team.php:180
+msgid "Position"
+msgstr ""
+
+#: lib/panel/team.php:111 lib/panel/team.php:177
+msgid "Person Name."
+msgstr ""
+
+#: lib/panel/team.php:117 lib/panel/team.php:183
+msgid "Person Position."
+msgstr ""
+
+#: lib/panel/team.php:121 lib/panel/team.php:187
+msgid "Social Facebook Link"
+msgstr ""
+
+#: lib/panel/team.php:127 lib/panel/team.php:193
+msgid "Social Google+ Link"
+msgstr ""
+
+#: lib/panel/team.php:133 lib/panel/team.php:199
+msgid "Social Twitter Link"
+msgstr ""
+
+#: lib/panel/team.php:139 lib/panel/team.php:205
+msgid "Social Linkedin Link"
+msgstr ""
+
+#: lib/panel/team.php:145 lib/panel/team.php:211
+msgid "Social Pinterest Link"
+msgstr ""
+
+#: lib/panel/team.php:151 lib/panel/team.php:217
+msgid "Social Dribbble Link"
+msgstr ""
+
+#: page-blog.php:59
+msgid "Newer Entries"
+msgstr ""
+
+#: page-blog.php:60
+msgid "Older Entries"
+msgstr ""
+
+#: page-contactus.php:64
+msgid "How can we help you?"
+msgstr ""
+
+#: page-home.php:175
+msgid "Welcome"
+msgstr ""
+
+#: page-home.php:181 page-search-default.php:62 page-search.php:108
+#: skl/plugin/import-company/process.php:282
+msgid "Category"
+msgstr ""
+
+#: page-home.php:187 single-company.php:181
+msgid "Custom"
+msgstr ""
+
+#: page-price.php:20
+msgid "Users Role Capabilities is disabled"
+msgstr ""
+
+#: page-search-blog.php:15 page-search-blog.php:18
+msgid "Search Blog"
+msgstr ""
+
+#: page-search-blog.php:45 page-search-default.php:53 page-search-mega.php:52
+msgid "results"
+msgstr ""
+
+#: page-search-blog.php:47 page-search-default.php:57 page-search-mega.php:56
+#: page-search.php:100
+msgid "results for search"
+msgstr ""
+
+#: page-search-default.php:55
+msgid "Category - "
+msgstr ""
+
+#: page-search-default.php:80 page-search.php:152
+msgid "Sort by"
+msgstr ""
+
+#: page-search-default.php:90 page-search.php:162
+msgid "Direction"
+msgstr ""
+
+#: page-search-mega.php:20 page-search-mega.php:23
+msgid "Global Search"
+msgstr ""
+
+#: page-search-mega.php:54
+msgid "results for"
+msgstr ""
+
+#: page-search.php:119
+msgid "Distance"
+msgstr ""
+
+#: single-company.php:151
+msgid "Portfolio"
+msgstr ""
+
+#: single-company.php:169
+msgid "Contact"
+msgstr ""
+
+#: single-company.php:175
+msgid "Product & Services"
+msgstr ""
+
+#: single-company.php:206
+msgid "Events Manager Plugin is deactivate"
+msgstr ""
+
+#: single-company.php:206
+msgid "Install and Activate"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:172
+#: skl/framework/admin/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1313
+#: skl/plugin/admin-options/opt/accounts.php:23
+#: skl/plugin/admin-options/opt/accounts.php:154
+#: skl/plugin/admin-options/opt/accounts.php:286
+#: skl/plugin/admin-options/opt/accounts.php:419
+msgid "Activate"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1950
+#: skl/framework/admin/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: skl/framework/admin/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: skl/framework/functions.php:159
+msgid "To publish this info you need to upgrade."
+msgstr ""
+
+#: skl/framework/widgets/count-companies-widget.php:13
+msgid "Count Companies"
+msgstr ""
+
+#: skl/framework/widgets/count-companies-widget.php:17
+msgid "&rarr; UOUapps &rarr; Count Companies"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:19
+msgid "Register or login TourOperator users form"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:23
+msgid "Theme &rarr; TourOperator Login"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:28
+msgid "Register or login metrodir users form"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:32
+msgid "!Beta! metrodir &rarr; Login-Register Form"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:64
+msgid "Username: "
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:66
+msgid "Account: "
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:70
+msgid "My Items"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:72
+msgid "Item Offers"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:73
+msgid "Reservations"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:75
+msgid "Ratings"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:77
+msgid "Account"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:138
+#: skl/functions/accounts-reg.php:159 skl/functions/accounts-reg.php:160
+#: skl/functions/accounts-reg.php:558
+msgid "per"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:153
+msgid "Sign up!"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:183
+msgid "Sign up"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:184
+msgid "Buy with PayPal"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:241
+msgid "Login Description"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:243
+msgid "Logout Description"
+msgstr ""
+
+#: skl/framework/widgets/login-widget.php:245
+msgid "Register Description"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:127
+msgid "metrodir package"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:128
+msgid "Upgrade to "
+msgstr ""
+
+#: skl/functions/accounts-reg.php:131
+msgid " Upgrade"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:144 skl/functions/accounts-reg.php:147
+#: skl/functions/accounts-reg.php:526 skl/functions/accounts-reg.php:529
+msgid "year"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:150 skl/functions/accounts-reg.php:532
+msgid "month"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:153 skl/functions/accounts-reg.php:535
+msgid "week"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:156 skl/functions/accounts-reg.php:538
+msgid "day"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:160
+msgid "for"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:194 skl/functions/accounts-reg.php:226
+msgid "ERROR: Check paypal API settings!"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:241 skl/functions/accounts-reg.php:370
+msgid "Your account was upgraded!"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:243 skl/functions/accounts-reg.php:372
+msgid "Your account was activated! Check your email address for password!"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:337
+msgid "PayPal recurring payments profile created. Your account was upgraded!"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:339
+msgid ""
+"PayPal recurring payments profile created. Your account was activated! Check "
+"your email address for password!"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:392
+msgid "You canceled payment. Your account wasn't changed."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:396
+msgid ""
+"You canceled payment. Your account was create but without function to add "
+"new companies. Login and upgrade your account."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:404
+msgid "PayPal recurring payments profile is active."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:404
+msgid "PayPal recurring payments profile isn't active."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:445
+msgid "None"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:458
+msgid "Non-active"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:469
+msgid "Account type"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:475
+msgid "PayPal profile"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:481
+msgid "PayPal profile ID"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:486
+msgid "PayPal profile status"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:491
+msgid "Days left before expiration"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:495
+msgid "Company items (now/max) "
+msgstr ""
+
+#: skl/functions/accounts-reg.php:500
+msgid "Event Items (now/max) "
+msgstr ""
+
+#: skl/functions/accounts-reg.php:506
+msgid "Product Items (now/max) "
+msgstr ""
+
+#: skl/functions/accounts-reg.php:511
+msgid "Post Items (now/max) "
+msgstr ""
+
+#: skl/functions/accounts-reg.php:518
+msgid "Upgrade account"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:580
+msgid "Upgrade Account"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:637 skl/functions/accounts-reg.php:660
+#: skl/functions/accounts-reg.php:683 skl/functions/accounts-reg.php:706
+msgid "forbidden"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:729
+msgid "Expired account"
+msgstr ""
+
+#: skl/functions/accounts-reg.php:749
+msgid "ERROR: User registration is disabled."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:758
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:760
+msgid "ERROR: Please enter a valid username."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:763
+msgid "ERROR: This username is already registered."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:768
+msgid "ERROR: Please type your e-mail address."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:770
+msgid "ERROR: The email address isn&#8217;t correct."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:773
+msgid "ERROR: This email is already registered."
+msgstr ""
+
+#: skl/functions/accounts-reg.php:786
+#, php-format
+msgid ""
+"ERROR: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s"
+"\">webmaster</a> !"
+msgstr ""
+
+#: skl/functions/accounts.php:496
+#, php-format
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: skl/functions/accounts.php:527
+msgid ""
+"You have maximum items for your account type. Upgrade your account to insert "
+"more items!"
+msgstr ""
+
+#: skl/functions/accounts.php:530
+msgid "Your account has expired. Upgrade your account."
+msgstr ""
+
+#: skl/functions/accounts.php:533
+msgid "Forbidden to publish this post type. Please, upgrade your account."
+msgstr ""
+
+#: skl/functions/accounts.php:560
+msgid "User items"
+msgstr ""
+
+#: skl/functions/accounts.php:561
+msgid "Activation time"
+msgstr ""
+
+#: skl/functions/accounts.php:562
+msgid "PayPal Recurring Profile ID"
+msgstr ""
+
+#: skl/functions/accounts.php:563
+msgid "Expiry date"
+msgstr ""
+
+#: skl/functions/accounts.php:564
+msgid "Last PayPal transaction ID"
+msgstr ""
+
+#: skl/plugin/admin-options/functions.php:20
+msgid "Settings saved."
+msgstr ""
+
+#: skl/plugin/admin-options/functions.php:71
+#: skl/plugin/import-company/tpl/admin.php:172
+msgid "Save settings"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:3
+msgid "Activate account control"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:4
+msgid "Enable MetroDir Users Role Capabilities"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:17
+#: skl/plugin/admin-options/opt/accounts.php:148
+#: skl/plugin/admin-options/opt/accounts.php:280
+#: skl/plugin/admin-options/opt/accounts.php:413
+msgid "Account settings"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:23
+#: skl/plugin/admin-options/opt/accounts.php:154
+#: skl/plugin/admin-options/opt/accounts.php:286
+#: skl/plugin/admin-options/opt/accounts.php:419
+msgid "account"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:27
+#: skl/plugin/admin-options/opt/accounts.php:158
+#: skl/plugin/admin-options/opt/accounts.php:290
+#: skl/plugin/admin-options/opt/accounts.php:423
+msgid "Select yes to enable this account."
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:32
+#: skl/plugin/admin-options/opt/accounts.php:163
+#: skl/plugin/admin-options/opt/accounts.php:295
+#: skl/plugin/admin-options/opt/accounts.php:428
+msgid "Account name"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:35
+#: skl/plugin/admin-options/opt/accounts.php:166
+#: skl/plugin/admin-options/opt/accounts.php:298
+#: skl/plugin/admin-options/opt/accounts.php:431
+msgid "Name for role"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:40
+#: skl/plugin/admin-options/opt/accounts.php:171
+#: skl/plugin/admin-options/opt/accounts.php:303
+#: skl/plugin/admin-options/opt/accounts.php:436
+msgid "Price"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:43
+#: skl/plugin/admin-options/opt/accounts.php:174
+#: skl/plugin/admin-options/opt/accounts.php:306
+#: skl/plugin/admin-options/opt/accounts.php:439
+msgid "set 0 for free"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:48
+#: skl/plugin/admin-options/opt/accounts.php:61
+#: skl/plugin/admin-options/opt/accounts.php:179
+#: skl/plugin/admin-options/opt/accounts.php:311
+#: skl/plugin/admin-options/opt/accounts.php:444
+msgid "Payment period"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:51
+#: skl/plugin/admin-options/opt/accounts.php:182
+#: skl/plugin/admin-options/opt/accounts.php:314
+#: skl/plugin/admin-options/opt/accounts.php:447
+msgid "Year"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:52
+#: skl/plugin/admin-options/opt/accounts.php:183
+#: skl/plugin/admin-options/opt/accounts.php:315
+#: skl/plugin/admin-options/opt/accounts.php:448
+msgid "Month"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:53
+#: skl/plugin/admin-options/opt/accounts.php:184
+#: skl/plugin/admin-options/opt/accounts.php:316
+#: skl/plugin/admin-options/opt/accounts.php:449
+msgid "Week"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:54
+#: skl/plugin/admin-options/opt/accounts.php:185
+#: skl/plugin/admin-options/opt/accounts.php:317
+#: skl/plugin/admin-options/opt/accounts.php:450
+msgid "Day"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:58
+#: skl/plugin/admin-options/opt/accounts.php:189
+#: skl/plugin/admin-options/opt/accounts.php:321
+#: skl/plugin/admin-options/opt/accounts.php:454
+msgid "Expires period days"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:72
+#: skl/plugin/admin-options/opt/accounts.php:203
+#: skl/plugin/admin-options/opt/accounts.php:335
+#: skl/plugin/admin-options/opt/accounts.php:468
+msgid "Account capabilities"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:78
+#: skl/plugin/admin-options/opt/accounts.php:209
+#: skl/plugin/admin-options/opt/accounts.php:341
+#: skl/plugin/admin-options/opt/accounts.php:474
+msgid "Enable set featured company"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:89
+#: skl/plugin/admin-options/opt/accounts.php:220
+#: skl/plugin/admin-options/opt/accounts.php:352
+#: skl/plugin/admin-options/opt/accounts.php:485
+msgid "Enable capability for Rating System"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:100
+#: skl/plugin/admin-options/opt/accounts.php:231
+#: skl/plugin/admin-options/opt/accounts.php:363
+#: skl/plugin/admin-options/opt/accounts.php:496
+msgid "Max company items"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:103
+#: skl/plugin/admin-options/opt/accounts.php:111
+#: skl/plugin/admin-options/opt/accounts.php:119
+msgid "Set 0 for Unlimited OR -1 for Block"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:108
+#: skl/plugin/admin-options/opt/accounts.php:239
+#: skl/plugin/admin-options/opt/accounts.php:371
+#: skl/plugin/admin-options/opt/accounts.php:504
+msgid "Max blog post items"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:116
+#: skl/plugin/admin-options/opt/accounts.php:247
+#: skl/plugin/admin-options/opt/accounts.php:379
+#: skl/plugin/admin-options/opt/accounts.php:512
+msgid "Max events items"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:124
+#: skl/plugin/admin-options/opt/accounts.php:255
+#: skl/plugin/admin-options/opt/accounts.php:387
+#: skl/plugin/admin-options/opt/accounts.php:520
+msgid "Max product items"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:127
+#: skl/plugin/admin-options/opt/accounts.php:258
+#: skl/plugin/admin-options/opt/accounts.php:390
+#: skl/plugin/admin-options/opt/accounts.php:523
+msgid "Set 0 for Unlimited or -1 for Forbid publish"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:132
+#: skl/plugin/admin-options/opt/accounts.php:263
+#: skl/plugin/admin-options/opt/accounts.php:395
+#: skl/plugin/admin-options/opt/accounts.php:528
+msgid "Submit for Review Before Publish"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:192
+#: skl/plugin/admin-options/opt/accounts.php:324
+#: skl/plugin/admin-options/opt/accounts.php:457
+msgid "set 0 for unlimited"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:234
+#: skl/plugin/admin-options/opt/accounts.php:242
+#: skl/plugin/admin-options/opt/accounts.php:250
+#: skl/plugin/admin-options/opt/accounts.php:366
+#: skl/plugin/admin-options/opt/accounts.php:374
+#: skl/plugin/admin-options/opt/accounts.php:382
+#: skl/plugin/admin-options/opt/accounts.php:499
+#: skl/plugin/admin-options/opt/accounts.php:507
+#: skl/plugin/admin-options/opt/accounts.php:515
+msgid "Set 0 for Unlimited OR -1 for Forbid publish"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:544
+msgid "Claim Listing"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:545
+msgid "Enable Claim Listing"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/accounts.php:557
+msgid "Default Role For Aprove Claim:"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/fields.php:18
+#: skl/plugin/admin-options/opt/fields.php:33
+#: skl/plugin/admin-options/opt/fields.php:48
+#: skl/plugin/admin-options/opt/fields.php:63
+#: skl/plugin/admin-options/opt/fields.php:78
+#: skl/plugin/admin-options/opt/fields.php:93
+#: skl/plugin/admin-options/opt/fields.php:108
+#: skl/plugin/admin-options/opt/fields.php:123
+msgid "Public"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/fields.php:19
+#: skl/plugin/admin-options/opt/fields.php:34
+#: skl/plugin/admin-options/opt/fields.php:49
+#: skl/plugin/admin-options/opt/fields.php:64
+#: skl/plugin/admin-options/opt/fields.php:79
+#: skl/plugin/admin-options/opt/fields.php:94
+#: skl/plugin/admin-options/opt/fields.php:109
+#: skl/plugin/admin-options/opt/fields.php:124
+msgid "Private"
+msgstr ""
+
+#: skl/plugin/admin-options/opt/fields.php:20
+#: skl/plugin/admin-options/opt/fields.php:35
+#: skl/plugin/admin-options/opt/fields.php:50
+#: skl/plugin/admin-options/opt/fields.php:65
+#: skl/plugin/admin-options/opt/fields.php:80
+#: skl/plugin/admin-options/opt/fields.php:95
+#: skl/plugin/admin-options/opt/fields.php:110
+#: skl/plugin/admin-options/opt/fields.php:125
+msgid "Custom option"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:20
+msgid "Name/ID/Slug"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:21
+msgid "Name (slug) company"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:28
+msgid "Company status"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:29
+msgid ""
+"Available values: draft, publish, pending, future, private. Default: draft"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:32
+msgid "Content"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:36
+msgid "Excerpt"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:40
+msgid "Author username"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:41
+msgid "Default author is currently user"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:45
+msgid ""
+"Date in format: Y-m-d H:i:s (example: 2013-06-12 18:12:00). Default: "
+"currently date"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:48
+msgid "Featured Image"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:49
+msgid "Slug (name) of media file"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:52
+msgid "Comment status"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:53
+msgid "Available values: closed, open"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:68
+msgid "URL images company"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:69
+#: skl/plugin/import-company/import.php:73
+#: skl/plugin/import-company/import.php:77
+#: skl/plugin/import-company/import.php:81
+#: skl/plugin/import-company/import.php:85
+#: skl/plugin/import-company/import.php:89
+#: skl/plugin/import-company/import.php:93
+msgid "URL (example: http://**.**/**.jpg)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:109
+#: skl/plugin/import-company/import.php:113
+msgid "*Required "
+msgstr ""
+
+#: skl/plugin/import-company/import.php:117
+msgid "Available values: Map, Streetview, Blank"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:121
+msgid "Founded company."
+msgstr ""
+
+#: skl/plugin/import-company/import.php:149
+#: skl/plugin/import-company/import.php:153
+msgid "Available values: Hide, Display"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:165
+msgid "Separate by ',' "
+msgstr ""
+
+#: skl/plugin/import-company/import.php:168
+msgid "Opening Hours 1:"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:169
+msgid "1 interval, (days, hours !!Separate by , ) (example: monday, 18:00)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:172
+msgid "Opening Hours 2:"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:173
+msgid "2 interval, (days, hours !!Separate by , ) (example: monday, 18:00)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:176
+msgid "Opening Hours 3:"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:177
+msgid "3 interval, (days, hours !!Separate by , ) (example: monday, 18:00)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:180
+msgid "Opening Hours 4:"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:181
+msgid "4 interval, (days, hours !!Separate by , ) (example: monday, 18:00)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:227
+msgid "Name / Identifier / Slug"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:228
+msgid "Name (slug) for identifing category"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:239
+msgid "Parent category"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:240
+msgid "Parent category name (slug)"
+msgstr ""
+
+#: skl/plugin/import-company/import.php:247
+msgid "Сolor"
+msgstr ""
+
+#: skl/plugin/import-company/process.php:34
+msgid "Metrodir CSV Companies Bulk Import"
+msgstr ""
+
+#: skl/plugin/import-company/process.php:34
+msgid "Companies Import"
+msgstr ""
+
+#: skl/plugin/import-company/process.php:194
+msgid " items was successfully imported. "
+msgstr ""
+
+#: skl/plugin/import-company/process.php:194
+msgid " items updated. "
+msgstr ""
+
+#: skl/plugin/import-company/process.php:194
+msgid " items ignored."
+msgstr ""
+
+#: skl/plugin/import-company/process.php:319
+msgid " categories was successfully imported. "
+msgstr ""
+
+#: skl/plugin/import-company/process.php:319
+msgid " categories updated. "
+msgstr ""
+
+#: skl/plugin/import-company/process.php:319
+msgid " categories ignored."
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:6
+msgid " metrodir CSV Companies Bulk Import"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:13
+msgid "Settings successfully saved"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:18
+#: skl/plugin/import-company/tpl/admin.php:27
+msgid "Incorrect CSV filem, please check file."
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:50
+msgid "Import companies from CSV file"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:53
+#: skl/plugin/import-company/tpl/admin.php:108
+msgid "Replace existing name/slug"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:54
+#: skl/plugin/import-company/tpl/admin.php:109
+msgid "Update existing name/slug"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:55
+msgid "Import companies from CSV"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:58
+#: skl/plugin/import-company/tpl/admin.php:115
+msgid "Create template csv files:"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:61
+#: skl/plugin/import-company/tpl/admin.php:118
+msgid "Parameter"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:61
+#: skl/plugin/import-company/tpl/admin.php:118
+msgid "Column name"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:61
+#: skl/plugin/import-company/tpl/admin.php:118
+msgid "Variable"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:81
+msgid "Taxonomy (example: cat1,cat2)"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:87
+#: skl/plugin/import-company/tpl/admin.php:136
+msgid "Generate sample CSV file"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:106
+msgid "Import companies categories from CSV file"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:111
+msgid "Import categories from CSV"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:150
+msgid "Import settings"
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:157
+msgid "Encoding CSV file: "
+msgstr ""
+
+#: skl/plugin/import-company/tpl/admin.php:167
+msgid "Delimiter CSV file: "
+msgstr ""
+
+#: skl/plugin/uou-dashboard/functions.php:11
+msgid "UOU Admin"
+msgstr ""
+
+#: skl/plugin/user-frontend/header.php:76
+msgid "Plan Settings"
+msgstr ""
+
+#: skl/plugin/user-frontend/header.php:103
+msgid "See Plan Settings"
+msgstr ""

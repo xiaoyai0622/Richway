@@ -1,0 +1,16 @@
+div#breadcrumbs {
+    background-image: url(../images/breadcrumbs-bg.png);
+}
+
+div#login-shadow,
+div#search div#search-shadow {
+    background: url(../images/pix.png);
+}
+
+div#search div#adv-search-container {
+    background: url(../images/pix-adv.png);
+}
+
+div#map-trobber {
+    background-image: url(../images/trobber.gif);
+}

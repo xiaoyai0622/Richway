@@ -1,0 +1,56 @@
+How to update Metrodir v.1.2.2 -> v.1.2.3 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP---------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/admin/theme-settings.php
+	/css/color-first.css
+	/css/color-fourth.css
+	/css/color-second.css
+	/css/color-third.css
+	/css/less.css
+	/images/clusters/*
+	/images/markers/*
+	/inclide/html/company-tabs/company.php
+	/inclide/html/frame-search.php
+	/include/html/frame-sidebar.php
+	/inclide/html/frame-subscribe.php
+	/inclide/html/str-home-map.php
+	/inclide/php/companymarkers.php
+	/inclide/php/logout-form.php
+	/lib/class/meta_box.php
+	/lib/panel/css/admin.css
+	/lib/panel/js/admin.js
+	/lib/panel/company.php
+	/plugins/*
+	/scripts/ajax_search.js
+	/scripts/markerclusterer.js
+	/scripts/map.js
+	/skl/functions/accounts.php
+	/skl/functions/accounts-reg.php
+	/skl/plugin/admin-options/opt/accounts.php
+	/skl/plugin/uou-dashboard/functions.php
+	/skl/plugin/user-frontend/header.php
+	chk-version.php
+	functions.php
+	index.php
+	page-search.php
+	search.php
+	style.css
+
+- Go to Metrodir CP at Admin panel and click "save all changes"
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+
+- Now do not need to create a page for Advanced Search and Blog Search;
+- Update version for included Plugins;
+- Add Blocking for Accounts Items;
+- Add Custom Block for Sidebar;
+- Add Clusters Icons;
+- Add Markers Icons for Default Categories;
+- Add Companies Custom Fields;
+- Fix Logic for "Pricing Plans" Block;
+- Fix Logic for Users CP;
+- Fix some bugs.

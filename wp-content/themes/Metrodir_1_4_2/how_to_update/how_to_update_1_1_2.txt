@@ -1,0 +1,24 @@
+How to update Metrodir v.1.1.1 -> v.1.1.2 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP---------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/css/responsive.css
+	/include/php/companymarkers.php
+	/scripts/ajax_search.js
+	/scripts/map.js
+	/skl/plugin/user-frontend/css/ufe.css
+	/chk-version.php
+	/page-search.php
+	/style.css
+
+- Go to Metrodir CP at Admin panel and click "save all changes"
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+
+- Add Map Boost;
+- Fix bug with 'x' on map;
+- Fix bug for iOS crush;
+- Fix some other visual bugs.

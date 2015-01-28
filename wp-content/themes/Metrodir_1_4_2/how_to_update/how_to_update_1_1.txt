@@ -1,0 +1,33 @@
+How to update Metrodir v.1.0 -> v.1.1 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP---------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/admin/admin-interface.php
+	/admin/theme-settings.php
+	/css/less.css
+	/css/responsive.css
+	/images/demo/*
+	/include/html/frame-subscribe.php
+	/include/html/str-header-1.php
+	/include/html/str-header-2.php
+	/include/php/logout-form.php
+	/scripts/scripts.js
+	/skl/plugin/user-frontend/header.php
+	/skl/plugin/import-company/*
+	/skl/plugin/uou-shortcodes/*
+	/skl/plugin/uou-update/*
+	functions.php
+	header.php
+	style.css
+
+- Go to Metrodir CP at Admin panel and click "save all changes"
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+- Add Demo version widget;
+- Add Bulk upload companies plugin;
+- Add Shortcodes;
+- Add Auto Update Button;
+- Fix some bugs.

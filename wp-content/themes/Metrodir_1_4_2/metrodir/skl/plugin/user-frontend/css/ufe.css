@@ -1,0 +1,148 @@
+/* Hide wordpress elements for User */
+#screen-meta,
+#screen-meta-links,
+#setting-error-tgmpa,
+.update-nag,
+#adminmenuwrap,
+#adminmenuback,
+#posts-filter .tablenav .actions,
+#posts-filter .tablenav .view-switch,
+#posts-filter .wp-list-table tfoot,
+#posts-filter .search-box,
+#icl_subsubsub,
+#posts-filter .row-actions .edit,
+#posts-filter .row-actions .inline,
+#postexcerpt .inside p,
+.error.fade {
+    display: none;
+}
+
+#wpcontent {
+    max-width: 100%; margin: 0 !important; padding: 0;
+}
+
+#wpfooter {
+    display: none !important;
+}
+
+#wpbody-content {
+    padding-bottom: 0;
+}
+
+.wp-core-ui .button-primary {
+    font-size: 14px;
+    height: 24px;
+}
+
+#wpwrap{
+    font-family: Lato;
+    max-width: 840px;
+    width: 94%;
+    padding: 0 3%;
+    margin: 0 auto !important;
+    background: #f5f5f5;
+}
+
+#wpbody {
+    clear: both;
+}
+
+.wrap {
+    margin: 0;
+}
+
+.wrap h2 {
+    border-bottom: 3px solid #0074a2;
+    color: #0074a2;
+    font-size: 26px;
+    line-height: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+html {
+    background: white;
+}
+
+ul.account-menu {
+    padding: 20px 0 0 0;
+    margin: 0 0 40px 0 ;
+    height: 40px;
+    border-bottom: 3px solid #0074a2;
+}
+
+ul.account-menu li {
+    float: left;
+    height: 40px;
+    margin: 0 2px 0 0;
+}
+
+ul.account-menu li a {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+    background: #2ea2cc;
+    font-weight: bold;
+    color: white;
+}
+
+ul.account-menu li.active a,
+ul.account-menu li a:hover {
+    background: #0074a2;
+}
+
+div.my-plan {
+    float: right;
+}
+
+div.my-plan a {
+    cursor: pointer;
+}
+
+div#map_canvas {
+    width: 97% !important;
+}
+
+input[type="checkbox"], input[type="radio"] {
+    display: inline-block !important;
+}
+
+input[type="text"],
+input[type="password"] {
+    height: inherit !important;
+}
+
+.wp-core-ui .button-primary {
+    height: 42px !important;
+    padding: 0 20px !important;
+    line-height: 42px;
+}
+
+select {
+    height: 42px !important;
+}
+
+.indicator-hint {
+    clear: both;
+}
+
+#titlediv #title {
+    height: 50px;
+}
+
+th.sortable a, th.sorted a {
+    display: inline;
+}
+
+@media only screen and (max-width: 459px) {
+
+    ul.account-menu li a {
+        padding: 0 10px;
+    }
+
+}
+
+div.row-actions {
+    display: none;
+}

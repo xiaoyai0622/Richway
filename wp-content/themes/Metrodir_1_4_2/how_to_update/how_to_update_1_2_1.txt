@@ -1,0 +1,38 @@
+How to update Metrodir v.1.2 -> v.1.2.1 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP---------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/admin/theme-settings.php
+	/css/color-first.css
+	/css/color-fourth.css
+	/css/color-second.css
+	/css/color-third.css
+	/css/less.css
+	/images/no_image.jpg
+	/include/html/frame-sidebar-blog.php
+	/include/php/companymarkers.php
+	/scripts/ajax_search.js
+	/scripts/map.js
+	/scripts/markerclusterer.js
+	/scripts/scripts.js
+	/skl/plugin/uou-dashboard/*
+	/skl/load.php
+	chk-version.php
+	function.php
+	page-home.php
+	page-sample.php
+	style.css
+
+- Go to Metrodir CP at Admin panel and click "save all changes"
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+
+- Add Grid and Min Size Cluster Options;
+- Add Enable/Disable Blog Search Option;
+- Add Top Bar;
+- Add Tabs on Home Page;
+- Fix Bug with Map Type;
+- Fix some others bugs.

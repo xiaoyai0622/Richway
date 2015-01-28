@@ -1,0 +1,175 @@
+www.uouapps.com
+
+To install the update unzip metrodir.zip and replace the existing files in the folder with the theme: host\wp-content\themes
+
+Metrodir WP change list:
+v.1.4.2 (20 November, 2014):
+New: Option "Slug for Company Taxonomy URL" in Metrodir CP -> General Settings;
+New: Option "Show Subcategories on Search and Categories Pages" in Metrodir CP -> Search Settings;
+Fix: Bug with Footer in Boxed Version;
+Fix: Url's for Categories;
+Fix: Some Responsive Bugs;
+Fix: Some Other Bugs.
+
+v.1.4.1 (05 September, 2014):
+New: Option "Show Sidebar on Companies Search Pages";
+New: One Style (Thumb) for Search Results and Category Pages (Option "Search Results Style");
+New: One Style for Search Pages with Fixed Map (Option "Search with Fixed Map");
+New: Two Options for Language Widget: "Flag and Code" , "Flag and Name";
+Fix: Bug with Displaying Company Fields on Company Page;
+Fix: Some Bug with Map Search;
+Fix: Style for Category Page;
+Fix: Some Other Bugs.
+
+
+v.1.4 (09 August, 2014):
+New: Option "Show/Hide Subcategories" in Block on Home Page;
+New: Option "Change Slug Company";
+New: Zip Code Field for Companies;
+New: Manage Restriction Fields;
+New: Restrictions for Package "Submit for Review Before Publish"
+New: Pagination for Default Search Results and Company Category Pages;
+Fix: PayPal Single Payments;
+Fix: Some Bug With Search By Location;
+Fix: Some Bugs in Shortcodes;
+Fix: Some Other Bugs.
+
+
+v.1.3.6:
+- Add Restriction for Ratings System;
+- Add Boost Speed for Map;
+- Fix Some Problem with HTTPS;
+- Fix Some Problem with WPML;
+- Fix Global Search by Description;
+- Fix Some Other Bugs.
+
+
+v.1.3.5:
+- Update VC Plugin Version;
+- Update FontAwesome Version;
+- Add Show All Author Posts Option in Blog Tab for Companies;
+- Add Show Subcategories in Under Map Filter Option;
+- Fix Some Bugs with Users CP;
+- Fix Some Other Bugs.
+
+
+v.1.3.4:
+- Scripts Refactoring;
+- Add Featured Mark on Markers;
+- Fix Big with Blog Page;
+- Fix Some Bugs with Global Search;
+- Fix Bug With Default Search Filters;
+- Fix Some Other Bugs.
+
+
+v.1.3.3:
+- Add New Styles for Category Block on Home Page;
+- Fix Crashing;
+- Fix some other bugs.
+
+
+v.1.3.1:
+- Update Versions for Included Plugins;
+- Now Users can Add Products;
+- Change style for Global Search;
+- Add Featured Mark for Companies;
+- Add Featured Block in Sidebar;
+- Add Featured Carousel at Home Page;
+- Add Border Color Options;
+- Fix bug with accounts items;
+- Fix bug with WPML;
+- Fix bug with search by category;
+- Fix bug with map centration;
+- Fix some other bugs.
+
+
+v.1.3:
+- Update VC plugin version;
+- Add Sidebar Widgets Area (for Single and Search Pages);
+- Add Product Tab for Comapny Page (Woocommerce Support);
+- Add Custom Tab for Company Page;
+- Add New Shortcode (Price Table);
+- Add Global Search in Header;
+- Fix Bug with improving Tariff Plan and PayPal (Now "My Plan" user link opened not in Popup always);
+- Fix some other bugs.
+
+
+v.1.2.4:
+- Add option "Markers Information" - What Show on Markers;
+- Add option "Map Clusters Icons URL";
+- Fix Logic in UOU Update Center;
+- Fix Bug with Shortcodes;
+- Fix Bug with Portfolio Images;
+- Fix Bug with PayPal Payment Period;
+- Fix some other bugs.
+
+
+v.1.2.3:
+- Now do not need to create a page for Advanced Search and Blog Search;
+- Update version for included Plugins;
+- Add Blocking for Accounts Items;
+- Add Custom Block for Sidebar;
+- Add Clusters Icons;
+- Add Markers Icons for Default Categories;
+- Add Companies Custom Fields;
+- Fix Logic for "Pricing Plans" Block;
+- Fix Logic for Users CP;
+- Fix some bugs.
+
+
+v.1.2.2:
+- Now Popup in User CP close only by click on "x" or ESC button;
+- Add Credit Card in PayPal Payment;
+- Add "Open in new Window" and "Nofollow" Options for Banners;
+- Add Custom CSS and JS Options Fields;
+- Fix Claim listing;
+- Fix Bug with options re-appearing in CP;
+- Fix Bug with Registration Block;
+- Fix some others bugs.
+
+
+v.1.2.1:
+- Add Grid and Min Size Cluster Options;
+- Add Enable/Disable Blog Search Option;
+- Add Top Bar;
+- Add Tabs on Home Page;
+- Fix Bug with Map Type;
+- Fix some others bugs.
+
+
+v.1.2:
+- Add enable/disable Search Option;
+- Add "Revolution slider and Map below" and "Map and Revolution slider below" Home View Options;
+- Add Claim Listing;
+- Add Child Theme;
+- Add Visual Composer on Home Page;
+- Add Subcategories for Company;
+- Add Custom Icon Support for Category;
+- Add Image Markers Support;
+- Add Cluster on map for image markers (beta);
+- Fix logo size;
+- Fix many responsive bugs;
+- Fix some others bugs.
+
+
+v.1.1.2:
+- Add Map Boost;
+- Fix bug with 'x' on map;
+- Fix bug for iOS crush;
+- Fix some other visual bugs.
+
+
+v.1.1.1:
+- Change Map load Functions;
+- Add Map Zoom Options;
+- Fix Demo Witget;
+- Fix some bugs associated with the map;
+- Fix some other bugs.
+
+
+v.1.1:
+- Add Demo version widget;
+- Add Bulk upload companies plugin;
+- Add Shortcodes;
+- Add Auto Update Button;
+- Fix some bugs.

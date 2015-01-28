@@ -1,0 +1,29 @@
+How to update Metrodir v.1.1 -> v.1.1.1 [Don't forget to back up your database/files before proceeding]
+----------------------------------------------------------------------------
+--------------------------------- FTP---------------------------------------
+
+- Unzip metrodir.zip to wp-content\themes\metrodir\ and replace files:
+
+	/admin/theme-settings.php
+	/include/html/frame-search.php
+	/include/php/companymarkers.php
+	/scripts/ajax_search.js
+	/scripts/map.js
+	/scripts/scripts.js
+	/skl/plugin/uou-update/update.php
+	/chk-version.php
+	/functions.php
+	/header.php
+	/page-default-search.php
+	/page-search.php
+
+- Go to Metrodir CP at Admin panel and click "save all changes"
+
+----------------------------------------------------------------------------
+--------------------------------- Changelog --------------------------------
+
+- Change Map load Functions;
+- Add Map Zoom Options;
+- Fix Demo Witget;
+- Fix some bugs associated with the map;
+- Fix some other bugs.
